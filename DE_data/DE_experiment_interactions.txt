@@ -1,0 +1,1290 @@
+Gene 1	Gene 2	Weight	Network group	Networks
+MX1	ISG15	0.3916676491498947	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+IFI44L	RSAD2	0.35245767515152693	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+MX1	IFI44L	0.35242799762636423	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+MX1	RSAD2	0.3362195137888193	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFI44	IFI44L	0.3360428251326084	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+ISG15	IFI44L	0.3342288448475301	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL3	CCL4	0.31329222209751606	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Wang-Maris-2006
+ISG15	RSAD2	0.3124621622264385	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFIT3	RSAD2	0.3063025064766407	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006; Wu-Garvey-2007
+MX1	IFI44	0.2933579087257385	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+MX1	OAS2	0.2894321195781231	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFI44	ISG15	0.2860404788516462	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OAS2	IFI44L	0.28196880873292685	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OAS2	ISG15	0.2787902168929577	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+ISG15	STAT1	0.276526496745646	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFI44	RSAD2	0.2759785633534193	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFIT3	IFI44L	0.2653781599365175	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+ISG15	IFIT3	0.2653061014134437	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+MX1	IFIT3	0.260202975012362	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+STAT1	GBP1	0.2540447674691677	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CXCL9	CXCL10	0.2493949020281434	Co-expression	Arijs-Rutgeerts-2009; Burington-Shaughnessy-2008; Chen-Brown-2002; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFI44	IFIT3	0.2435240177437663	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OAS2	STAT1	0.23565193824470043	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OAS2	RSAD2	0.23066536989063025	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+TAP1	STAT1	0.22846793942153454	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+OASL	RSAD2	0.22395623056218028	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFIT2	IFIT3	0.22302912455052137	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+STAT1	RSAD2	0.21583887096494436	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+MX1	STAT1	0.21067951526492834	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+STAT1	IFI44L	0.20581025909632444	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OAS2	IFI44	0.20461629703640938	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CXCL10	CXCL11	0.19949800241738558	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+OAS2	IFIT3	0.1981056579388678	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OASL	IFI44L	0.19414652418345213	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+ISG15	IFITM1	0.17596733570098877	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OASL	ISG15	0.17466755211353302	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OASL	IFIT3	0.17347397608682513	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CXCL9	CXCL11	0.17183695919811726	Co-expression	Bild-Nevins-2006 B; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CXCL2	CXCL3	0.17061385232955217	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IFIT2	RSAD2	0.1622745245695114	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+OASL	IFI44	0.16000603884458542	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OASL	MX1	0.15992420725524426	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OASL	OAS2	0.15878167375922203	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Innocenti-Brown-2011; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFI44	STAT1	0.1585186943411827	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006
+IFIT2	IFI44L	0.15238777548074722	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Innocenti-Brown-2011; Mallon-McKay-2013; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+GBP1	CXCL10	0.149925721809268	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Chen-Brown-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+PTGS2	IL6	0.14894683798775077	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Innocenti-Brown-2011; Kang-Willman-2010; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IFIT3	STAT1	0.14615936251357198	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Kang-Willman-2010; Ramaswamy-Golub-2001; Smirnov-Cheung-2009; Wang-Maris-2006
+TAP1	GBP1	0.14478627173230052	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+STAT1	CXCL10	0.1417897203937173	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Chen-Brown-2002; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+OASL	STAT1	0.12654139287769794	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Innocenti-Brown-2011; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+STAT1	CXCL9	0.12453941628336906	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Chen-Brown-2002; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+TAP1	ISG15	0.1242896169424057	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Cheok-Evans-2003; Gysin-McMahon-2012; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IFI44L	USP18	0.1240110918879509	Co-expression	Arijs-Rutgeerts-2009; Chen-Brown-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+CXCL9	GBP1	0.12036407925188541	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Chen-Brown-2002; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IL1B	IL8	0.11738754762336612	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+OAS2	IFITM1	0.11707304883748293	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Chen-Brown-2002; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+STAT1	CXCL11	0.11440922413021326	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL9	IDO1	0.11371732410043478	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+IL1B	IL6	0.11326909204944968	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IFIT2	ISG15	0.11304548941552639	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Innocenti-Brown-2011; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IDO1	CXCL11	0.1126904571428895	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+RSAD2	USP18	0.11138649191707373	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IL6	IL8	0.11003692168742418	Co-expression	Arijs-Rutgeerts-2009; Chen-Brown-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL2	CXCL1	0.10933181829750538	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Gysin-McMahon-2012; Salaverria-Siebert-2011
+IFI44	USP18	0.10908952075988054	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IL6	CCL2	0.10743293818086386	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Innocenti-Brown-2011; Kang-Willman-2010; Roth-Zlotnik-2006
+IFI44L	IFITM1	0.1053554154932499	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Chen-Brown-2002; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+MX1	IFIT2	0.10478656738996506	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Mallon-McKay-2013; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+ISG15	ISG20	0.10423154523596168	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Cheok-Evans-2003; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL2	CCL8	0.10422387160360813	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Innocenti-Brown-2011; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+OAS2	USP18	0.10283716674894094	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IFIT2	IFI44	0.10273925121873617	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Cheok-Evans-2003; Innocenti-Brown-2011; Rieger-Chu-2004; Smirnov-Cheung-2009
+CXCL5	CXCL3	0.10073225200176239	Co-expression	Gysin-McMahon-2012; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IL1B	TNF	0.10026447381824255	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006
+MX1	IFITM1	0.10015102615579963	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Chen-Brown-2002; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CXCL2	IL8	0.0998538862913847	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Boldrick-Relman-2002; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+GBP1	RSAD2	0.09854480344802141	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Gysin-McMahon-2012; Innocenti-Brown-2011; Wang-Maris-2006
+GBP1	CXCL11	0.09854412404820323	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+ISG20	IFITM1	0.09721192880533636	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Chen-Brown-2002; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+CXCL3	IL8	0.09688975382596254	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL2	IL6	0.09598125983029604	Co-expression	Boldrick-Relman-2002; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+TAP1	CXCL11	0.09578079637140036	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+OASL	IFIT2	0.09342981595546007	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Innocenti-Brown-2011; Salaverria-Siebert-2011
+IL8	CXCL1	0.09271829389035702	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Salaverria-Siebert-2011
+ISG15	USP18	0.09151170402765274	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+MX1	USP18	0.09145466703921556	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IL8	CCL20	0.08975416515022516	Co-expression	Bild-Nevins-2006 B; Gysin-McMahon-2012; Innocenti-Brown-2011; Mallon-McKay-2013; Salaverria-Siebert-2011; Wang-Maris-2006
+CCL3	IL1B	0.0893203979358077	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Innocenti-Brown-2011; Mallon-McKay-2013; Ramaswamy-Golub-2001
+HCAR3	IL1B	0.08772899303585291	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+TNFSF10	RSAD2	0.08762298384681344	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+PTGS2	IL8	0.08747028466314077	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL5	CCL20	0.08655585534870625	Co-expression	Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IFNG	CXCL9	0.08597260899841785	Co-expression	Arijs-Rutgeerts-2009; Mallon-McKay-2013; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+IDO1	CXCL10	0.08592419885098934	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+CCL4	TNF	0.08495303895324469	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Smirnov-Cheung-2009
+IFIT3	GBP1	0.08455753233283758	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Mallon-McKay-2013; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL4	IL1B	0.08429612312465906	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006
+IFIT3	USP18	0.08399527799338102	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IFI44L	GBP1	0.08365389984101057	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Burington-Shaughnessy-2008; Gysin-McMahon-2012; Mallon-McKay-2013; Rieger-Chu-2004; Wang-Maris-2006
+CXCL9	CCL5	0.08259598584845662	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Chen-Brown-2002; Innocenti-Brown-2011; Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL3	IL6	0.08187707047909498	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+MX1	ISG20	0.08182846289128065	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Cheok-Evans-2003; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+IFIT3	TNFSF10	0.07997678592801094	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CXCL2	PTGS2	0.07899696938693523	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+IFNG	GBP1	0.07895339047536254	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Kang-Willman-2010; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011
+IFI44	IFITM1	0.0774170272052288	Co-expression	Bild-Nevins-2006 B; Rieger-Chu-2004; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL4	IL6	0.0772207691334188	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001
+CCL5	GBP1	0.0768906525336206	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Cheok-Evans-2003; Mallon-McKay-2013; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+TNF	IL6	0.0765729770064354	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Gysin-McMahon-2012; Ramaswamy-Golub-2001
+OASL	CXCL10	0.0763603039085865	Co-expression	Gysin-McMahon-2012; Mallon-McKay-2013; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IL1B	CXCL1	0.07581354957073927	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002; Innocenti-Brown-2011; Salaverria-Siebert-2011
+TAP1	CXCL9	0.07541825249791145	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IFITM1	RSAD2	0.07486677076667547	Co-expression	Bild-Nevins-2006 B; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+STAT1	IFITM1	0.07447501039132476	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Boldrick-Relman-2002; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+TAP1	IFITM1	0.07286963006481528	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Innocenti-Brown-2011; Salaverria-Siebert-2011
+IL1B	IL1RN	0.07286059577018023	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Gysin-McMahon-2012; Ramaswamy-Golub-2001
+CXCL3	CCL20	0.07195914536714554	Co-expression	Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+CCL7	CCL8	0.07180624920874834	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Salaverria-Siebert-2011
+OAS2	CXCL10	0.07101203966885805	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Salaverria-Siebert-2011; Wang-Maris-2006
+IFI44L	CXCL10	0.07091692928224802	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Salaverria-Siebert-2011; Wang-Maris-2006
+HCAR3	IL8	0.07075357157737017	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+TAP1	CXCL10	0.07061313046142459	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+PTGS2	CCL2	0.07056423742324114	Co-expression	Arijs-Rutgeerts-2009; Chen-Brown-2002; Innocenti-Brown-2011; Kang-Willman-2010; Roth-Zlotnik-2006
+GBP1	TNFSF10	0.07043815264478326	Co-expression	Alizadeh-Staudt-2000; Bahr-Bowler-2013; Bild-Nevins-2006 B; Boldrick-Relman-2002; Chen-Brown-2002; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+GPR183	IL6	0.0703470935113728	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Innocenti-Brown-2011; Salaverria-Siebert-2011
+CXCL3	CXCL1	0.06922450149431825	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Innocenti-Brown-2011; Salaverria-Siebert-2011
+CCL4	CCL5	0.06871710112318397	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Innocenti-Brown-2011; Mallon-McKay-2013; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+CXCL3	PTGS2	0.06826435960829258	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+TAP1	IFIT3	0.06803062837570906	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Bild-Nevins-2006 B; Kang-Willman-2010; Smirnov-Cheung-2009; Wang-Maris-2006
+GBP1	IDO1	0.06761372834444046	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+IFIT2	USP18	0.06748463120311499	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IFI44	GBP1	0.06721632648259401	Co-expression	Burington-Shaughnessy-2008; Gysin-McMahon-2012; Roth-Zlotnik-2006; Wang-Maris-2006
+CCL2	CCL7	0.06676534563302994	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002; Chen-Brown-2002; Innocenti-Brown-2011
+IFNG	CXCL10	0.0667030718177557	Co-expression	Arijs-Rutgeerts-2009; Mallon-McKay-2013; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wu-Garvey-2007
+OASL	GBP1	0.06587682571262121	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Mallon-McKay-2013; Rieger-Chu-2004; Salaverria-Siebert-2011
+IL1B	PTGS2	0.0657005775719881	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+TAP1	IDO1	0.06518563255667686	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+OAS2	ISG20	0.06478138035163283	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL4	CXCL9	0.06463181599974632	Co-expression	Bild-Nevins-2006 B; Chen-Brown-2002; Cheok-Evans-2003; Salaverria-Siebert-2011
+ISG15	TNFSF10	0.0640505077317357	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IDO1	SERPINB9	0.0636513065546751	Co-expression	Burington-Shaughnessy-2008; Ramaswamy-Golub-2001; Wu-Garvey-2007
+STAT1	ISG20	0.06355217890813947	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Cheok-Evans-2003; Roth-Zlotnik-2006; Smirnov-Cheung-2009; Wang-Maris-2006
+STAT1	CCL5	0.06336657190695405	Co-expression	Alizadeh-Staudt-2000; Bild-Nevins-2006 B; Cheok-Evans-2003; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+HCAR3	IL1RN	0.06327440962195396	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+TAP1	CCL5	0.06258229492232203	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Roth-Zlotnik-2006; Salaverria-Siebert-2011; Wang-Maris-2006
+IFNG	IDO1	0.06246088305488229	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+RSAD2	CXCL10	0.062083154916763306	Co-expression	Gysin-McMahon-2012; Innocenti-Brown-2011; Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL3	IL1B	0.0617306362837553	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011; Wang-Maris-2006
+IFNG	TNF	0.06096089817583561	Co-expression	Innocenti-Brown-2011; Roth-Zlotnik-2006
+IL8	SOD2	0.060787915252149105	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Ramaswamy-Golub-2001; Salaverria-Siebert-2011; Wang-Maris-2006
+CCL7	CD80	0.060735976323485374	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Innocenti-Brown-2011
+IFI44L	ISG20	0.06030065892264247	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+OASL	IFITM1	0.06029802095144987	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Smirnov-Cheung-2009; Wang-Maris-2006
+HCAR3	GPR183	0.06006546691060066	Co-expression	Bahr-Bowler-2013; Boldrick-Relman-2002; Mallon-McKay-2013
+HCAR3	CCL4	0.05993834417313337	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001
+IFITM1	TNFSF10	0.05938091455027461	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002; Cheok-Evans-2003; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+STAT1	USP18	0.058518560603260994	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Kang-Willman-2010; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IFIT3	IFITM1	0.05825494043529034	Co-expression	Bild-Nevins-2006 B; Salaverria-Siebert-2011; Wang-Maris-2006
+APOBEC3A	APOBEC3B	0.05809606984257698	Co-expression	Gysin-McMahon-2012; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+GPR183	CD44	0.057784512639045715	Co-expression	Alizadeh-Staudt-2000; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+CCL3	TNF	0.056716264225542545	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001
+OAS2	CXCL11	0.05654122121632099	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Salaverria-Siebert-2011; Wang-Maris-2006
+IL6	PTX3	0.05630671884864569	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+TAP1	IFNG	0.056145485024899244	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+HCAR3	TNF	0.056021714583039284	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001
+CCL2	CXCL1	0.055960912723094225	Co-expression	Alizadeh-Staudt-2000; Burington-Shaughnessy-2008; Chen-Brown-2002; Innocenti-Brown-2011
+CXCL1	CCL20	0.05587251950055361	Co-expression	Bild-Nevins-2006 B; Gysin-McMahon-2012; Salaverria-Siebert-2011
+CCL4	CXCL10	0.055523740127682686	Co-expression	Burington-Shaughnessy-2008; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+STAT1	TNFSF10	0.055447240360081196	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+IFIT2	OAS2	0.05539375729858875	Co-expression	Bild-Nevins-2006 B; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IFNG	CCL5	0.05527744721621275	Co-expression	Bild-Nevins-2006 B; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+IFNG	CXCL11	0.05491802003234625	Co-expression	Arijs-Rutgeerts-2009; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+IL6	SOD2	0.054742686450481415	Co-expression	Ramaswamy-Golub-2001; Roth-Zlotnik-2006; Wang-Maris-2006
+IL1B	CCL20	0.054739583283662796	Co-expression	Gysin-McMahon-2012; Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL5	CXCL1	0.05440434813499451	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011
+CXCL5	IL8	0.05427846685051918	Co-expression	Salaverria-Siebert-2011; Wang-Maris-2006
+IFIT3	ISG20	0.054235298186540604	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Cheok-Evans-2003; Wang-Maris-2006
+PTGS2	CXCL1	0.05414388794451952	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Salaverria-Siebert-2011
+IL8	RIPK2	0.05387552408501506	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Smirnov-Cheung-2009
+IFI44	CXCL11	0.05370269808918238	Co-expression	Gysin-McMahon-2012; Roth-Zlotnik-2006; Wang-Maris-2006
+IDO1	CCL8	0.05356327909976244	Co-expression	Bild-Nevins-2006 B; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+TAP1	MX1	0.053466486278921366	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Gysin-McMahon-2012; Innocenti-Brown-2011; Wang-Maris-2006
+CXCL5	IL1B	0.05324108526110649	Co-expression	Salaverria-Siebert-2011; Wang-Maris-2006
+GBP1	GBP5	0.05316105019301176	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013; Kang-Willman-2010
+MX1	TNFSF10	0.05310082761570811	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Burington-Shaughnessy-2008; Smirnov-Cheung-2009; Wang-Maris-2006
+IL1B	CCL2	0.05289823841303587	Co-expression	Bild-Nevins-2006 B; Innocenti-Brown-2011; Roth-Zlotnik-2006
+OASL	ISG20	0.05289133545011282	Co-expression	Bild-Nevins-2006 B; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+IFNG	STAT1	0.052440480794757605	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001; Rieger-Chu-2004; Salaverria-Siebert-2011
+CCL3	CCL3L3	0.05201820284128189	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013
+HCAR3	CXCL1	0.05198545567691326	Co-expression	Mallon-McKay-2013; Salaverria-Siebert-2011
+IL1B	SERPINB9	0.051958709955215454	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Roth-Zlotnik-2006
+IFI44	CXCL10	0.05154612101614475	Co-expression	Gysin-McMahon-2012; Innocenti-Brown-2011; Wang-Maris-2006
+IL8	PTX3	0.05090465443208814	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013; Ramaswamy-Golub-2001
+TAP1	ISG20	0.0506530711427331	Co-expression	Bild-Nevins-2006 B; Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001; Roth-Zlotnik-2006
+STAT1	IDO1	0.05006256280466914	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Salaverria-Siebert-2011; Wang-Maris-2006
+ISG20	RSAD2	0.04989019315689802	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL3	HCAR3	0.0495367469266057	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001
+TAP1	IFI44	0.049402082804590464	Co-expression	Cheok-Evans-2003; Mallon-McKay-2013; Roth-Zlotnik-2006; Wang-Maris-2006
+CXCL2	CCL4	0.04889578931033611	Co-expression	Boldrick-Relman-2002; Gysin-McMahon-2012; Ramaswamy-Golub-2001
+CCL4	SOD2	0.04879466909915209	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Ramaswamy-Golub-2001
+IL1B	GPR183	0.04855510964989662	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001; Rieger-Chu-2004; Roth-Zlotnik-2006
+CXCL2	CCL20	0.04819654207676649	Co-expression	Gysin-McMahon-2012; Salaverria-Siebert-2011; Wang-Maris-2006
+IL6	CXCL1	0.04779497254639864	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011; Salaverria-Siebert-2011
+CXCL2	IL1B	0.04765251837670803	Co-expression	Boldrick-Relman-2002; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+IFI44L	TNFSF10	0.04753835219889879	Co-expression	Burington-Shaughnessy-2008; Rieger-Chu-2004; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+OAS2	GBP1	0.04734263848513365	Co-expression	Bahr-Bowler-2013; Gysin-McMahon-2012; Innocenti-Brown-2011
+CCL5	CXCL10	0.047000930178910494	Co-expression	Gysin-McMahon-2012; Innocenti-Brown-2011; Wang-Maris-2006
+OASL	TAP1	0.046808491460978985	Co-expression	Bahr-Bowler-2013; Bild-Nevins-2006 B; Mallon-McKay-2013; Roth-Zlotnik-2006
+OASL	USP18	0.04608655720949173	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+IFI44	TNFSF10	0.045461732894182205	Co-expression	Burington-Shaughnessy-2008; Innocenti-Brown-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+BPIFA1	BPIFB1	0.04546008072793484	Co-expression	Mallon-McKay-2013; Roth-Zlotnik-2006
+IL1B	SOD2	0.045412249863147736	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+CCL4	CCL3L3	0.04510369151830673	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013
+TAP1	CCL4	0.04509213287383318	Co-expression	Cheok-Evans-2003; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+IFI44	ISG20	0.04505748860538006	Co-expression	Cheok-Evans-2003; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+IL6	CCL20	0.04467312525957823	Co-expression	Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL3	IL6	0.04462944436818361	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011; Ramaswamy-Golub-2001
+GBP1	CCL8	0.04379496676847339	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Salaverria-Siebert-2011; Wang-Maris-2006
+S100A12	PTX3	0.043316454626619816	Co-expression	Burington-Shaughnessy-2008; Kang-Willman-2010; Ramaswamy-Golub-2001
+GBP5	GBP4	0.04325972776859999	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Mallon-McKay-2013; Roth-Zlotnik-2006
+CD44	MYO10	0.04301868565380573	Co-expression	Burington-Shaughnessy-2008; Gysin-McMahon-2012
+HCAR3	S100A12	0.04285921901464462	Co-expression	Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+CXCL5	PTX3	0.042749266140162945	Co-expression	Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+RSAD2	CCL8	0.04258252773433924	Co-expression	Bild-Nevins-2006 B; Mallon-McKay-2013; Salaverria-Siebert-2011
+IFIT2	CCL8	0.042523798532783985	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Mallon-McKay-2013
+OASL	CXCL2	0.04206076916307211	Co-expression	Ramaswamy-Golub-2001; Roth-Zlotnik-2006
+IFNG	GBP5	0.04202699102461338	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Kang-Willman-2010; Mallon-McKay-2013
+HCAR3	PTX3	0.042016973719000816	Co-expression	Bahr-Bowler-2013; Ramaswamy-Golub-2001
+CXCL10	CCL8	0.04192128870636225	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Salaverria-Siebert-2011
+RSAD2	CXCL11	0.04172156471759081	Co-expression	Bild-Nevins-2006 B; Roth-Zlotnik-2006
+OASL	TNFSF10	0.04149697441607714	Co-expression	Burington-Shaughnessy-2008; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+OASL	IL1RN	0.0413596797734499	Co-expression	Bild-Nevins-2006 B; Burington-Shaughnessy-2008; Ramaswamy-Golub-2001
+CXCL5	PTGS2	0.04131690505892038	Co-expression	Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL5	CXCL2	0.04128370899707079	Co-expression	Salaverria-Siebert-2011; Wang-Maris-2006
+CXCL5	IL6	0.040845020674169064	Co-expression	Salaverria-Siebert-2011; Wang-Maris-2006
+IFNG	CCL4	0.04084334056824446	Co-expression	Bild-Nevins-2006 B; Innocenti-Brown-2011; Salaverria-Siebert-2011
+TNF	CXCL10	0.040697140619158745	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+CXCL3	PTX3	0.040478743612766266	Co-expression	Cheok-Evans-2003; Kang-Willman-2010; Wang-Maris-2006
+ISG20	TNFSF10	0.040194430854171515	Co-expression	Boldrick-Relman-2002; Burington-Shaughnessy-2008; Rieger-Chu-2004; Smirnov-Cheung-2009; Wang-Maris-2006
+GPR183	SAMSN1	0.039971248246729374	Co-expression	Alizadeh-Staudt-2000; Roth-Zlotnik-2006; Smirnov-Cheung-2009
+TAP1	IFI44L	0.03988390835002065	Co-expression	Bild-Nevins-2006 B; Gysin-McMahon-2012; Mallon-McKay-2013; Wang-Maris-2006
+GPR183	CCL2	0.039855608716607094	Co-expression	Bild-Nevins-2006 B; Wang-Maris-2006
+CCL4	PTGS2	0.039718639105558395	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001; Smirnov-Cheung-2009
+GBP1	IFITM1	0.039704092079773545	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Roth-Zlotnik-2006; Salaverria-Siebert-2011
+ADM	VEGFA	0.03959655575454235	Co-expression	Bahr-Bowler-2013; Salaverria-Siebert-2011
+IFIT3	CCL8	0.03948722407221794	Co-expression	Bild-Nevins-2006 B; Mallon-McKay-2013; Salaverria-Siebert-2011
+IFI44	APOBEC3A	0.039437731727957726	Co-expression	Bahr-Bowler-2013; Salaverria-Siebert-2011
+IFI44L	APOBEC3A	0.03938773646950722	Co-expression	Bahr-Bowler-2013; Salaverria-Siebert-2011
+CCL3	STAT1	0.0393381929025054	Co-expression	Alizadeh-Staudt-2000; Cheok-Evans-2003
+OAS2	TNFSF10	0.039224994368851185	Co-expression	Burington-Shaughnessy-2008; Salaverria-Siebert-2011; Smirnov-Cheung-2009; Wang-Maris-2006
+CCL4	IL1RN	0.039204005151987076	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Ramaswamy-Golub-2001
+TAP1	RSAD2	0.03918081149458885	Co-expression	Bild-Nevins-2006 B; Cheok-Evans-2003; Wang-Maris-2006
+IDO1	APOBEC3A	0.038939546793699265	Co-expression	Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+PTX3	CXCL1	0.0388629250228405	Co-expression	Roth-Zlotnik-2006; Salaverria-Siebert-2011
+CXCL2	SOD2	0.03869345039129257	Co-expression	Gysin-McMahon-2012; Ramaswamy-Golub-2001; Wang-Maris-2006
+CCL4	GPR183	0.03859275206923485	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013; Wang-Maris-2006
+IFI44L	CCL8	0.03857619874179363	Co-expression	Bild-Nevins-2006 B; Mallon-McKay-2013; Salaverria-Siebert-2011
+IL8	APOBEC3A	0.03848050348460674	Co-expression	Arijs-Rutgeerts-2009; Kang-Willman-2010; Roth-Zlotnik-2006
+IL6	CXCL10	0.03841750882565975	Co-expression	Gysin-McMahon-2012; Ramaswamy-Golub-2001
+S100A12	APOBEC3A	0.03836711589246988	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010; Roth-Zlotnik-2006
+CCL4	CXCL1	0.03814579173922539	Co-expression	Boldrick-Relman-2002; Roth-Zlotnik-2006
+GPR183	SERPINB9	0.038119294680655	Co-expression	Innocenti-Brown-2011; Roth-Zlotnik-2006
+IL6	IL1RN	0.03788081370294094	Co-expression	Boldrick-Relman-2002; Ramaswamy-Golub-2001; Wang-Maris-2006
+IFNG	CYP27B1	0.03777877986431122	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B
+IFIT3	CXCL10	0.03770041465759277	Co-expression	Arijs-Rutgeerts-2009; Salaverria-Siebert-2011; Wang-Maris-2006
+ADA	CD44	0.03750470373779535	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011; Rieger-Chu-2004
+ISG15	APOBEC3A	0.037436870858073235	Co-expression	Bahr-Bowler-2013; Salaverria-Siebert-2011
+IL1B	S100A12	0.03700788086280227	Co-expression	Arijs-Rutgeerts-2009; Mallon-McKay-2013; Ramaswamy-Golub-2001
+RSAD2	APOBEC3A	0.03667608089745045	Co-expression	Bahr-Bowler-2013; Salaverria-Siebert-2011
+CCL3	CXCL10	0.03644912410527468	Co-expression	Burington-Shaughnessy-2008; Ramaswamy-Golub-2001
+IL8	IL1RN	0.03613853547722101	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001
+IFIT2	TNFSF10	0.03604832570999861	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+PTGS2	CCL20	0.03602906595915556	Co-expression	Salaverria-Siebert-2011; Wang-Maris-2006
+IFIT2	IL1RN	0.03579450212419033	Co-expression	Burington-Shaughnessy-2008; Ramaswamy-Golub-2001
+CCL4	IL8	0.035673793870955706	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Ramaswamy-Golub-2001
+ISG15	CXCL10	0.03500001039355993	Co-expression	Roth-Zlotnik-2006; Salaverria-Siebert-2011
+CD44	CD80	0.034874700009822845	Co-expression	Rieger-Chu-2004; Smirnov-Cheung-2009; Wu-Garvey-2007
+TNF	CXCL1	0.034739742055535316	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002; Gysin-McMahon-2012
+TAP1	GBP5	0.03471630346029997	Co-expression	Bahr-Bowler-2013; Roth-Zlotnik-2006
+CCL4	SAMSN1	0.034630593843758106	Co-expression	Alizadeh-Staudt-2000; Chen-Brown-2002
+CXCL1	SERPINB3	0.0345479641109705	Co-expression	Bild-Nevins-2006 B; Mallon-McKay-2013
+STAT1	CCL4	0.03451769519597292	Co-expression	Cheok-Evans-2003; Salaverria-Siebert-2011
+GPR183	CXCL10	0.03435530886054039	Co-expression	Cheok-Evans-2003; Rieger-Chu-2004; Smirnov-Cheung-2009; Wu-Garvey-2007
+IFITM1	USP18	0.03420806024223566	Co-expression	Arijs-Rutgeerts-2009; Salaverria-Siebert-2011; Smirnov-Cheung-2009
+HCAR3	SOD2	0.034183076582849026	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001
+CD44	SAMSN1	0.034160191193223	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+MX1	GBP1	0.034093362744897604	Co-expression	Boldrick-Relman-2002; Chen-Brown-2002; Gysin-McMahon-2012
+TAP1	TNFSF10	0.034027091693133116	Co-expression	Boldrick-Relman-2002; Rieger-Chu-2004; Salaverria-Siebert-2011; Wang-Maris-2006
+IL1B	RIPK2	0.034025867003947496	Co-expression	Arijs-Rutgeerts-2009; Roth-Zlotnik-2006
+HCAR3	CXCL10	0.03373792115598917	Co-expression	Gysin-McMahon-2012; Ramaswamy-Golub-2001
+COL3A1	CCL13	0.033581387251615524	Co-expression	Burington-Shaughnessy-2008
+GBP1	GBP4	0.03357360139489174	Co-expression	Arijs-Rutgeerts-2009; Roth-Zlotnik-2006
+MX1	CXCL10	0.03343749791383743	Co-expression	Innocenti-Brown-2011; Wang-Maris-2006
+IL8	CD80	0.03338908310979605	Co-expression	Arijs-Rutgeerts-2009; Cheok-Evans-2003
+SLAMF7	PLAC8	0.033362725749611855	Co-expression	Bahr-Bowler-2013; Boldrick-Relman-2002; Mallon-McKay-2013
+CCL8	APOBEC3A	0.03318267781287432	Co-expression	Arijs-Rutgeerts-2009; Salaverria-Siebert-2011
+CXCL5	SLAMF7	0.033168298192322254	Co-expression	Boldrick-Relman-2002; Roth-Zlotnik-2006
+IFIT2	HCAR3	0.03296777792274952	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001
+CCL20	SERPINB3	0.032860979437828064	Co-expression	Bild-Nevins-2006 B
+ISG15	IL1RN	0.032622167840600014	Co-expression	Alizadeh-Staudt-2000; Ramaswamy-Golub-2001
+CXCL9	GBP5	0.032545588444918394	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Mallon-McKay-2013
+IFIT2	IFITM1	0.03251825179904699	Co-expression	Bild-Nevins-2006 B; Salaverria-Siebert-2011
+IFIT2	STAT1	0.03239002916961908	Co-expression	Bild-Nevins-2006 B; Kang-Willman-2010
+TNFSF10	CCL2	0.03236223105341196	Co-expression	Alizadeh-Staudt-2000; Mallon-McKay-2013; Salaverria-Siebert-2011
+IFIT2	CXCL10	0.0323115112259984	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001
+OASL	GBP5	0.032304877415299416	Co-expression	Bahr-Bowler-2013; Innocenti-Brown-2011; Mallon-McKay-2013
+CXCL2	TNF	0.032247886061668396	Co-expression	Boldrick-Relman-2002; Gysin-McMahon-2012
+PTX3	CD44	0.03220862988382578	Co-expression	Gysin-McMahon-2012; Mallon-McKay-2013
+CCL3	CXCL2	0.031871598213911057	Co-expression	Boldrick-Relman-2002; Ramaswamy-Golub-2001
+CCL3	IFNG	0.03168943524360657	Co-expression	Innocenti-Brown-2011; Rieger-Chu-2004
+IDO2	CXCL10	0.03168417513370514	Co-expression	Roth-Zlotnik-2006
+GBP1	CD24	0.0316232293844223	Co-expression	Smirnov-Cheung-2009; Wu-Garvey-2007
+OASL	CXCL9	0.03144311346113682	Co-expression	Mallon-McKay-2013; Roth-Zlotnik-2006
+CCL5	RASGRP1	0.031425639521330595	Co-expression	Innocenti-Brown-2011; Wang-Maris-2006; Wu-Garvey-2007
+CCL7	CCL13	0.03142533730715513	Co-expression	Boldrick-Relman-2002; Chen-Brown-2002
+CCL4	CCL2	0.03141429554671049	Co-expression	Alizadeh-Staudt-2000; Chen-Brown-2002; Innocenti-Brown-2011
+CCL3	CD44	0.03137143328785896	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002
+ISG15	GBP1	0.03099833009764552	Co-expression	Alizadeh-Staudt-2000; Gysin-McMahon-2012; Salaverria-Siebert-2011
+STAT1	GBP5	0.03077497985213995	Co-expression	Arijs-Rutgeerts-2009; Bahr-Bowler-2013
+HCAR3	IL6	0.030600828118622303	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+GBP1	IL6	0.030308496206998825	Co-expression	Boldrick-Relman-2002; Gysin-McMahon-2012; Rieger-Chu-2004
+IFI44L	CXCL11	0.030263425782322884	Co-expression	Roth-Zlotnik-2006
+GBP1	SOD2	0.030101867858320475	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B; Salaverria-Siebert-2011
+CXCL11	GBP4	0.030027798376977444	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+CXCL11	GBP5	0.02994435280561447	Co-expression	Innocenti-Brown-2011; Roth-Zlotnik-2006
+TNF	IL8	0.029704500921070576	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012; Smirnov-Cheung-2009
+IFI44L	GBP4	0.029689033515751362	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+CXCL2	GPR183	0.029566513374447823	Co-expression	Ramaswamy-Golub-2001; Salaverria-Siebert-2011
+IL8	SERPINB9	0.029402020387351513	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+SLAMF7	CCL20	0.02926558069884777	Co-expression	Roth-Zlotnik-2006
+TAP1	IL1RN	0.029229454696178436	Co-expression	Alizadeh-Staudt-2000; Gysin-McMahon-2012
+CXCL9	TNFSF10	0.029109923169016838	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002; Chen-Brown-2002
+PTGS2	SERPINB9	0.029078513383865356	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+PTGS2	IL1RN	0.029021162539720535	Co-expression	Arijs-Rutgeerts-2009; Wang-Maris-2006
+CXCL10	GBP5	0.0288825836032629	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011; Mallon-McKay-2013
+CCL3	CXCL1	0.02884942851960659	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011
+ADM	TNFSF8	0.02884084451943636	Co-expression	Bahr-Bowler-2013; Burington-Shaughnessy-2008
+OASL	CXCL11	0.028622841462492943	Co-expression	Bild-Nevins-2006 B; Wang-Maris-2006
+CCL3	S100A12	0.028449208475649357	Co-expression	Chen-Brown-2002; Ramaswamy-Golub-2001
+CCL7	CXCL11	0.02833230420947075	Co-expression	Innocenti-Brown-2011
+CCL3	SAMSN1	0.028234652243554592	Co-expression	Alizadeh-Staudt-2000; Chen-Brown-2002
+OASL	APOBEC3A	0.028190783224999905	Co-expression	Mallon-McKay-2013; Salaverria-Siebert-2011
+GPR183	LILRA1	0.02815609611570835	Co-expression	Kang-Willman-2010
+GPR183	CCL20	0.027833028230816126	Co-expression	Roth-Zlotnik-2006; Smirnov-Cheung-2009
+CXCL3	GPR183	0.02774420753121376	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+IDO1	GBP4	0.02768781967461109	Co-expression	Arijs-Rutgeerts-2009; Roth-Zlotnik-2006
+IFIT3	IL8	0.027479994110763073	Co-expression	Alizadeh-Staudt-2000; Ramaswamy-Golub-2001
+MX1	CCL8	0.027452249079942703	Co-expression	Bild-Nevins-2006 B; Mallon-McKay-2013
+OASL	IDO1	0.027450622990727425	Co-expression	Roth-Zlotnik-2006; Salaverria-Siebert-2011
+CCL5	CXCL11	0.0274079916998744	Co-expression	Bild-Nevins-2006 B; Innocenti-Brown-2011; Roth-Zlotnik-2006
+CXCL3	CYP27B1	0.027186531573534012	Co-expression	Rieger-Chu-2004; Wu-Garvey-2007
+IFNG	HCAR3	0.02706842217594385	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+IFIT2	IL1B	0.026960249058902264	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001
+CCL4	CD44	0.026827597990632057	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002
+IL6	CD44	0.026759850792586803	Co-expression	Alizadeh-Staudt-2000; Smirnov-Cheung-2009
+CCL8	IRAK2	0.026702238246798515	Co-expression	Kang-Willman-2010
+HCAR3	PTGS2	0.026546933688223362	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011
+CXCL3	CCL2	0.026436583139002323	Co-expression	Innocenti-Brown-2011; Kang-Willman-2010
+IL6	CCL7	0.02629120647907257	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+IFITM1	CXCL1	0.026106112636625767	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Ramaswamy-Golub-2001
+TAP1	IL8	0.02604545373469591	Co-expression	Bild-Nevins-2006 B; Chen-Brown-2002
+SAMSN1	RIPK2	0.026019301265478134	Co-expression	Salaverria-Siebert-2011
+IL6	CCL8	0.025921745225787163	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+CCL20	RIPK2	0.025809605605900288	Co-expression	Innocenti-Brown-2011; Rieger-Chu-2004
+CCL5	GBP5	0.02569937566295266	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013; Roth-Zlotnik-2006
+IFNG	PTGS2	0.025490017607808113	Co-expression	Innocenti-Brown-2011; Wu-Garvey-2007
+IFITM1	GBP5	0.025300723500549793	Co-expression	Bahr-Bowler-2013; Kang-Willman-2010
+ISG15	CXCL11	0.025206655263900757	Co-expression	Roth-Zlotnik-2006
+PTGS2	CXCL10	0.02518805069848895	Co-expression	Boldrick-Relman-2002; Wu-Garvey-2007
+ISG15	CXCL9	0.025142712518572807	Co-expression	Roth-Zlotnik-2006
+IFNG	CCL8	0.02512801717966795	Co-expression	Arijs-Rutgeerts-2009; Salaverria-Siebert-2011
+CXCL3	SAMSN1	0.02510514948517084	Co-expression	Gysin-McMahon-2012; Kang-Willman-2010
+IL8	CXCL10	0.02468585129827261	Co-expression	Bild-Nevins-2006 B; Wu-Garvey-2007
+CCL8	CXCL11	0.024624301120638847	Co-expression	Bild-Nevins-2006 B; Salaverria-Siebert-2011
+CXCL5	S100A12	0.024550451897084713	Co-expression	Wang-Maris-2006; Wu-Garvey-2007
+CXCL1	CD44	0.024525645188987255	Co-expression	Alizadeh-Staudt-2000; Arijs-Rutgeerts-2009
+HCAR3	CCL20	0.024524284526705742	Co-expression	Salaverria-Siebert-2011
+HCAR3	CCL2	0.02447423618286848	Co-expression	Burington-Shaughnessy-2008; Innocenti-Brown-2011
+CCL7	IL1RN	0.024466389790177345	Co-expression	Alizadeh-Staudt-2000
+IFNG	CCL13	0.02437223121523857	Co-expression	Bild-Nevins-2006 B
+IDO1	SOD2	0.024202682077884674	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B
+GBP1	APOBEC3A	0.02420168649405241	Co-expression	Kang-Willman-2010; Salaverria-Siebert-2011
+RASGRP1	IL8	0.02419708762317896	Co-expression	Boldrick-Relman-2002; Gysin-McMahon-2012; Wu-Garvey-2007
+IFIT3	CXCL11	0.02408481575548649	Co-expression	Roth-Zlotnik-2006
+GBP1	USP18	0.024030694738030434	Co-expression	Gysin-McMahon-2012; Smirnov-Cheung-2009
+CCL5	CCL13	0.024013835471123457	Co-expression	Bild-Nevins-2006 B; Chen-Brown-2002
+S100A12	IL6	0.02398441731929779	Co-expression	Ramaswamy-Golub-2001
+HCAR3	CXCL3	0.023968182504177094	Co-expression	Salaverria-Siebert-2011
+IL8	SAMSN1	0.02395240217447281	Co-expression	Arijs-Rutgeerts-2009; Boldrick-Relman-2002; Kang-Willman-2010
+HCAR3	SAMSN1	0.023849180433899164	Co-expression	Arijs-Rutgeerts-2009; Chen-Brown-2002
+CXCL10	USP18	0.023822388611733913	Co-expression	Gysin-McMahon-2012; Salaverria-Siebert-2011
+IFNG	CCL7	0.023683179169893265	Co-expression	Roth-Zlotnik-2006
+GPR183	CCL3L3	0.023679044097661972	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013
+GBP1	CCL2	0.02361141238361597	Co-expression	Mallon-McKay-2013; Salaverria-Siebert-2011
+OAS2	PLAC8	0.02349109947681427	Co-expression	Bahr-Bowler-2013; Smirnov-Cheung-2009
+ISG20	SLAMF7	0.023489168845117092	Co-expression	Mallon-McKay-2013; Roth-Zlotnik-2006
+TNF	CCL2	0.0234435573220253	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+TNF	CCL3L3	0.023430343717336655	Co-expression	Innocenti-Brown-2011
+CCL2	CXCL11	0.023417087271809578	Co-expression	Salaverria-Siebert-2011
+CXCL5	IFIT3	0.02328597754240036	Co-expression	Alizadeh-Staudt-2000
+IFIT2	S100A12	0.023246614262461662	Co-expression	Ramaswamy-Golub-2001
+CCL5	CCL3L3	0.02314528590068221	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013
+SLAMF7	CCL8	0.02297965856269002	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011; Salaverria-Siebert-2011
+CCL3	IL1RN	0.02287097554653883	Co-expression	Boldrick-Relman-2002; Ramaswamy-Golub-2001
+SCGB1A1	EDN1	0.02278643473982811	Co-expression	Roth-Zlotnik-2006
+CXCL3	EDN1	0.022749388590455055	Co-expression	Salaverria-Siebert-2011
+GPR183	PLAC8	0.022629447281360626	Co-expression	Salaverria-Siebert-2011
+RASGRP1	GPR183	0.02255816524848342	Co-expression	Salaverria-Siebert-2011; Wu-Garvey-2007
+OASL	CCL5	0.0225446792319417	Co-expression	Mallon-McKay-2013; Salaverria-Siebert-2011
+TNF	S100A12	0.02240888774394989	Co-expression	Ramaswamy-Golub-2001
+CCL2	ADM	0.02233434747904539	Co-expression	Chen-Brown-2002; Roth-Zlotnik-2006
+RIPK2	CXCL11	0.0223130090162158	Co-expression	Arijs-Rutgeerts-2009; Bild-Nevins-2006 B
+ISG15	CCL3	0.022299982607364655	Co-expression	Alizadeh-Staudt-2000
+S100A12	SAMSN1	0.02223845198750496	Co-expression	Arijs-Rutgeerts-2009; Chen-Brown-2002
+TNF	PTGS2	0.0221859160810709	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+OASL	CCL4	0.022157822735607624	Co-expression	Ramaswamy-Golub-2001; Smirnov-Cheung-2009
+CXCL1	SERPINB9	0.022075803950428963	Co-expression	Innocenti-Brown-2011
+CXCL5	HCAR3	0.021979374811053276	Co-expression	Salaverria-Siebert-2011
+IFIT2	IL6	0.02192291058599949	Co-expression	Ramaswamy-Golub-2001
+CXCL3	S100A12	0.021903966553509235	Co-expression	Kang-Willman-2010; Wang-Maris-2006
+CCL3	IL8	0.021881812252104282	Co-expression	Boldrick-Relman-2002; Ramaswamy-Golub-2001
+ADM	CCL20	0.021869881078600883	Co-expression	Arijs-Rutgeerts-2009; Cheok-Evans-2003
+CCL7	IRAK2	0.02182106487452984	Co-expression	Roth-Zlotnik-2006
+IFITM1	CXCL10	0.021800555288791656	Co-expression	Arijs-Rutgeerts-2009; Salaverria-Siebert-2011
+IL6	SAMSN1	0.021766649559140205	Co-expression	Alizadeh-Staudt-2000
+CCL5	CXCL1	0.021663739811629057	Co-expression	Alizadeh-Staudt-2000; Roth-Zlotnik-2006
+CCL4	S100A12	0.021628495305776596	Co-expression	Ramaswamy-Golub-2001
+GBP1	SERPINB9	0.02159569412469864	Co-expression	Ramaswamy-Golub-2001
+RSAD2	IL1RN	0.02159287314862013	Co-expression	Burington-Shaughnessy-2008; Ramaswamy-Golub-2001
+PTGS2	CCL7	0.02152929175645113	Co-expression	Chen-Brown-2002; Innocenti-Brown-2011
+ADM	CXCL1	0.02140369382686913	Co-expression	Arijs-Rutgeerts-2009; Ramaswamy-Golub-2001
+TAP1	CCL3	0.021390559151768684	Co-expression	Cheok-Evans-2003
+PTX3	CCL20	0.02138548856601119	Co-expression	Mallon-McKay-2013; Wang-Maris-2006
+GBP1	PLAC8	0.021235646679997444	Co-expression	Bahr-Bowler-2013
+CCL3	PTGS2	0.021190053783357143	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+HCAR3	RIPK2	0.0211725989356637	Co-expression	Bahr-Bowler-2013; Innocenti-Brown-2011
+CXCL9	SLAMF7	0.021159577183425426	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011
+IFIT2	CCL4	0.021090101450681686	Co-expression	Ramaswamy-Golub-2001
+S100A12	CXCL10	0.02108045667409897	Co-expression	Ramaswamy-Golub-2001
+TAP1	GBP4	0.02099519595503807	Co-expression	Arijs-Rutgeerts-2009; Roth-Zlotnik-2006
+GBP1	ADM	0.02097592130303383	Co-expression	Kang-Willman-2010
+IFNG	ISG20	0.020884313620626926	Co-expression	Ramaswamy-Golub-2001; Smirnov-Cheung-2009
+OASL	GBP4	0.020863737910985947	Co-expression	Roth-Zlotnik-2006
+IFI44	CD24	0.02084444835782051	Co-expression	Rieger-Chu-2004; Smirnov-Cheung-2009
+PTGS2	GPR183	0.020839415956288576	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+CCL2	SERPINB9	0.020802470855414867	Co-expression	Chen-Brown-2002; Innocenti-Brown-2011
+IL1B	SAMSN1	0.020713767502456903	Co-expression	Arijs-Rutgeerts-2009; Roth-Zlotnik-2006
+CCL7	APOBEC3A	0.020647339522838593	Co-expression	Salaverria-Siebert-2011
+CD80	RIPK2	0.02062321826815605	Co-expression	Salaverria-Siebert-2011
+APOBEC3A	GBP5	0.02056879736483097	Co-expression	Kang-Willman-2010; Mallon-McKay-2013
+TNFSF10	CXCL10	0.020502154249697924	Co-expression	Chen-Brown-2002; Salaverria-Siebert-2011
+PIGR	APOBEC3B	0.02043511625379324	Co-expression	Wang-Maris-2006; Wu-Garvey-2007
+IFNG	APOBEC3A	0.02036887314170599	Co-expression	Kang-Willman-2010; Salaverria-Siebert-2011
+OASL	IDO2	0.020330704748630524	Co-expression	Roth-Zlotnik-2006
+IDO1	SCGB1A1	0.020329292863607407	Co-expression	Smirnov-Cheung-2009
+PTX3	IL1RN	0.020261572673916817	Co-expression	Bahr-Bowler-2013; Ramaswamy-Golub-2001
+CXCL11	APOBEC3A	0.020228995010256767	Co-expression	Ramaswamy-Golub-2001
+CXCL3	PIGR	0.020147566683590412	Co-expression	Bild-Nevins-2006 B; Ramaswamy-Golub-2001
+PTGS2	EDN1	0.020099235698580742	Co-expression	Salaverria-Siebert-2011
+IFIT3	PLAC8	0.020035105291754007	Co-expression	Bahr-Bowler-2013; Smirnov-Cheung-2009
+CCL8	CCL3L3	0.020025797188282013	Co-expression	Innocenti-Brown-2011
+IFITM1	ADA	0.019718656316399574	Co-expression	Bahr-Bowler-2013
+CCL5	TNFSF10	0.019689868204295635	Co-expression	Alizadeh-Staudt-2000; Chen-Brown-2002; Salaverria-Siebert-2011
+MX1	ADA	0.01967913657426834	Co-expression	Wu-Garvey-2007
+MX1	CCL2	0.01966174878180027	Co-expression	Wu-Garvey-2007
+CXCL10	SERPINB9	0.019652698189020157	Co-expression	Ramaswamy-Golub-2001
+GBP5	CCL3L3	0.019614286720752716	Co-expression	Innocenti-Brown-2011; Mallon-McKay-2013
+HCAR3	CCL5	0.01958116888999939	Co-expression	Boldrick-Relman-2002
+CXCL9	CYP27B1	0.019563861191272736	Co-expression	Arijs-Rutgeerts-2009
+CXCL5	GPR183	0.019557833671569824	Co-expression	Salaverria-Siebert-2011
+ISG20	PLAC8	0.019523516297340393	Co-expression	Mallon-McKay-2013
+CCL2	CXCL10	0.01951219141483307	Co-expression	Salaverria-Siebert-2011
+ADA	CD80	0.019466759636998177	Co-expression	Salaverria-Siebert-2011
+S100A12	IL8	0.019456894136965275	Co-expression	Kang-Willman-2010; Roth-Zlotnik-2006
+HCAR3	APOBEC3A	0.019429560750722885	Co-expression	Salaverria-Siebert-2011
+CCL3	GBP1	0.019415907561779022	Co-expression	Alizadeh-Staudt-2000; Rieger-Chu-2004
+TAP1	PLAC8	0.01934121362864971	Co-expression	Bahr-Bowler-2013
+IFIT3	APOBEC3A	0.019303277134895325	Co-expression	Salaverria-Siebert-2011
+GPR183	IL8	0.01927151530981064	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+SLAMF7	CXCL11	0.019264649599790573	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011
+IFNG	IL8	0.019180727656930685	Co-expression	Arijs-Rutgeerts-2009; Kang-Willman-2010
+HCAR3	CD44	0.019152316730469465	Co-expression	Boldrick-Relman-2002; Innocenti-Brown-2011
+EDN1	GBP4	0.019132185727357864	Co-expression	Roth-Zlotnik-2006
+TAP1	IL6	0.01911313459277153	Co-expression	Chen-Brown-2002
+PTGS2	PTX3	0.019074182026088238	Co-expression	Innocenti-Brown-2011; Ramaswamy-Golub-2001
+TNFSF8	BPIFA1	0.0189773291349411	Co-expression	Innocenti-Brown-2011
+TNFSF10	SCGB1A1	0.018963640555739403	Co-expression	Roth-Zlotnik-2006
+ADM	SOD2	0.01892673410475254	Co-expression	Salaverria-Siebert-2011
+CCL4	GBP5	0.018921107053756714	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+TNF	ADM	0.018764784559607506	Co-expression	Kang-Willman-2010
+CXCL9	SERPINB9	0.01875220239162445	Co-expression	Ramaswamy-Golub-2001
+TNF	CCL8	0.01867401972413063	Co-expression	Innocenti-Brown-2011
+IL1B	CCL7	0.018658969551324844	Co-expression	Alizadeh-Staudt-2000
+IDO1	GBP5	0.01858282182365656	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+TAP1	USP18	0.018473549745976925	Co-expression	Arijs-Rutgeerts-2009; Gysin-McMahon-2012
+IL8	ADM	0.018436452373862267	Co-expression	Salaverria-Siebert-2011
+PTGS2	CYP27B1	0.018382467329502106	Co-expression	Gysin-McMahon-2012
+CXCL2	IL1RN	0.018341688439249992	Co-expression	Boldrick-Relman-2002; Ramaswamy-Golub-2001
+CCL4	IRAK2	0.018307572230696678	Co-expression	Bahr-Bowler-2013
+MX1	CXCL3	0.01828414760529995	Co-expression	Ramaswamy-Golub-2001
+ISG20	SOD2	0.01826385222375393	Co-expression	Innocenti-Brown-2011
+TNF	APOBEC3A	0.018252523615956306	Co-expression	Arijs-Rutgeerts-2009
+CCL20	EDN1	0.018250050023198128	Co-expression	Ramaswamy-Golub-2001
+S100A12	CD24	0.01821470819413662	Co-expression	Burington-Shaughnessy-2008
+TAP1	IFIT2	0.018185775727033615	Co-expression	Kang-Willman-2010
+PTGS2	RIPK2	0.018135580234229565	Co-expression	Arijs-Rutgeerts-2009; Innocenti-Brown-2011
+IL8	TNFSF10	0.018118657171726227	Co-expression	Cheok-Evans-2003
+OASL	CCL13	0.018113182857632637	Co-expression	Mallon-McKay-2013
+CXCL5	IL1RN	0.018084203824400902	Co-expression	Wang-Maris-2006
+S100A12	SOD2	0.018081238493323326	Co-expression	Ramaswamy-Golub-2001
+CYP27B1	APOBEC3B	0.018042966723442078	Co-expression	Bild-Nevins-2006 B
+CXCL1	CCL13	0.01802869699895382	Co-expression	Burington-Shaughnessy-2008
+CXCL2	EDN1	0.017885323613882065	Co-expression	Salaverria-Siebert-2011
+TAP1	IL1B	0.017874859273433685	Co-expression	Kang-Willman-2010
+TNFSF10	CCL8	0.017774265259504318	Co-expression	Bild-Nevins-2006 B; Salaverria-Siebert-2011
+IFIT2	TNF	0.01776491291821003	Co-expression	Ramaswamy-Golub-2001
+CCL3	SOD2	0.01774589531123638	Co-expression	Ramaswamy-Golub-2001
+IFIT3	APOBEC3B	0.01758543774485588	Co-expression	Wu-Garvey-2007
+MX1	APOBEC3A	0.017519596964120865	Co-expression	Salaverria-Siebert-2011
+TNF	GPR183	0.01750008948147297	Co-expression	Boldrick-Relman-2002
+IFIT2	PTX3	0.017492933198809624	Co-expression	Ramaswamy-Golub-2001
+CXCL1	IDO1	0.01746290735900402	Co-expression	Smirnov-Cheung-2009
+PTX3	SOD2	0.017423924058675766	Co-expression	Ramaswamy-Golub-2001
+IL8	VEGFA	0.017421076074242592	Co-expression	Wang-Maris-2006
+HCAR3	ADM	0.01742088794708252	Co-expression	Chen-Brown-2002
+GPR183	PTX3	0.017315121367573738	Co-expression	Bahr-Bowler-2013
+IL1B	PTX3	0.017305878922343254	Co-expression	Ramaswamy-Golub-2001
+IL8	GBP5	0.01728686736896634	Co-expression	Arijs-Rutgeerts-2009; Kang-Willman-2010
+CCL3	CCL8	0.017255961894989014	Co-expression	Innocenti-Brown-2011
+IFIT2	SOD2	0.017183955758810043	Co-expression	Ramaswamy-Golub-2001
+SAMSN1	PLAC8	0.017138270661234856	Co-expression	Mallon-McKay-2013
+IDO1	IL1RN	0.017069362103939056	Co-expression	Burington-Shaughnessy-2008
+CCL13	APOBEC3A	0.017036424949765205	Co-expression	Mallon-McKay-2013
+CCL8	CCL13	0.01702052913606167	Co-expression	Innocenti-Brown-2011
+IFNG	SOD2	0.01699448935687542	Co-expression	Arijs-Rutgeerts-2009
+IFIT2	APOBEC3A	0.016955792903900146	Co-expression	Salaverria-Siebert-2011
+RASGRP1	RIPK2	0.016930529847741127	Co-expression	Rieger-Chu-2004
+TNFSF10	CXCL11	0.016925485339015722	Co-expression	Bild-Nevins-2006 B; Salaverria-Siebert-2011
+HCAR3	CCL13	0.01689317636191845	Co-expression	Alizadeh-Staudt-2000
+HCAR3	SCGB1A1	0.0168711319565773	Co-expression	Bild-Nevins-2006 B
+PTX3	TNFSF8	0.01685875654220581	Co-expression	Bahr-Bowler-2013
+CCL4	PTX3	0.01683800481259823	Co-expression	Ramaswamy-Golub-2001
+TAP1	SLAMF7	0.01680469512939453	Co-expression	Bahr-Bowler-2013; Salaverria-Siebert-2011
+CCL20	IL1RN	0.016786562278866768	Co-expression	Wang-Maris-2006
+MX1	CXCL11	0.016711894422769547	Co-expression	Roth-Zlotnik-2006
+SOD2	CYP27B1	0.016693731769919395	Co-expression	Salaverria-Siebert-2011
+CXCL9	ISG20	0.016675688792020082	Co-expression	Boldrick-Relman-2002; Roth-Zlotnik-2006
+S100A12	CXCL1	0.016650790348649025	Co-expression	Salaverria-Siebert-2011
+CXCL3	IL1RN	0.016646532341837883	Co-expression	Wang-Maris-2006
+APOBEC3A	USP18	0.016609469428658485	Co-expression	Salaverria-Siebert-2011
+CXCL3	RIPK2	0.016601495444774628	Co-expression	Innocenti-Brown-2011
+CCL3	CCL2	0.01659589260816574	Co-expression	Chen-Brown-2002; Innocenti-Brown-2011
+CXCL1	BPIFB1	0.016558201983571053	Co-expression	Mallon-McKay-2013
+CCL4	RASGRP1	0.016550112515687943	Co-expression	Rieger-Chu-2004
+SLAMF7	GBP5	0.016546823550015688	Co-expression	Bahr-Bowler-2013; Innocenti-Brown-2011
+CD24	EDN1	0.01651766337454319	Co-expression	Gysin-McMahon-2012
+RASGRP1	CD80	0.016517125070095062	Co-expression	Salaverria-Siebert-2011
+TAP1	OAS2	0.016445215791463852	Co-expression	Bild-Nevins-2006 B; Gysin-McMahon-2012
+HCAR3	SERPINB9	0.016444006934762	Co-expression	Innocenti-Brown-2011
+CCL4	SLAMF7	0.016435190569609404	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011
+CXCL2	CCL2	0.01637956313788891	Co-expression	Burington-Shaughnessy-2008
+GBP1	RIPK2	0.016336385160684586	Co-expression	Gysin-McMahon-2012
+GBP1	PTX3	0.01621120795607567	Co-expression	Kang-Willman-2010
+SLAMF7	CXCL10	0.016195423901081085	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011
+MX1	CD24	0.016157325822860003	Co-expression	Rieger-Chu-2004; Smirnov-Cheung-2009
+CXCL1	SCGB1A1	0.01609569415450096	Co-expression	Mallon-McKay-2013
+OASL	CCL8	0.016073403880000114	Co-expression	Bild-Nevins-2006 B
+CYP27B1	CCL13	0.016072846949100494	Co-expression	Bild-Nevins-2006 B
+MX1	CCL3	0.016026299446821213	Co-expression	Mallon-McKay-2013
+PLAC8	APOBEC3A	0.0159821268171072	Co-expression	Roth-Zlotnik-2006
+CXCL2	IDO1	0.015963345766067505	Co-expression	Roth-Zlotnik-2006
+CCL2	IL1RN	0.01590706966817379	Co-expression	Alizadeh-Staudt-2000
+CCL4	CXCL11	0.015852876007556915	Co-expression	Salaverria-Siebert-2011
+CXCL1	BPIFA1	0.015845539048314095	Co-expression	Mallon-McKay-2013
+ADM	CD44	0.01583779603242874	Co-expression	Bahr-Bowler-2013
+IL1B	CD80	0.015775602776557207	Co-expression	Rieger-Chu-2004; Smirnov-Cheung-2009
+TNF	CD44	0.01577417366206646	Co-expression	Alizadeh-Staudt-2000
+IFITM1	PLAC8	0.015760792419314384	Co-expression	Bahr-Bowler-2013
+RIPK2	GBP5	0.015699710696935654	Co-expression	Kang-Willman-2010
+IL1B	CCL3L3	0.015688495710492134	Co-expression	Innocenti-Brown-2011
+SCGB1A1	BPIFB1	0.015676181763410568	Co-expression	Mallon-McKay-2013
+IFIT2	IFNG	0.015670515596866608	Co-expression	Arijs-Rutgeerts-2009
+CCL5	IDO1	0.015603020321577787	Co-expression	Bild-Nevins-2006 B; Innocenti-Brown-2011
+IL6	RSAD2	0.01560105849057436	Co-expression	Gysin-McMahon-2012
+IFI44	PLAC8	0.015581118408590555	Co-expression	Mallon-McKay-2013; Smirnov-Cheung-2009
+IDO1	SLAMF7	0.015332994982600212	Co-expression	Innocenti-Brown-2011; Salaverria-Siebert-2011
+TNFSF10	USP18	0.015308065339922905	Co-expression	Salaverria-Siebert-2011; Smirnov-Cheung-2009
+SCGB1A1	BPIFA1	0.015249043703079224	Co-expression	Mallon-McKay-2013
+CCL4	CXCL3	0.01521812379360199	Co-expression	Ramaswamy-Golub-2001
+CCL13	USP18	0.015192845836281776	Co-expression	Chen-Brown-2002
+PLAC8	GBP4	0.015187361277639866	Co-expression	Innocenti-Brown-2011
+CCL2	LILRA1	0.01517958752810955	Co-expression	Arijs-Rutgeerts-2009
+HCAR3	CCL3L3	0.015099452808499336	Co-expression	Innocenti-Brown-2011
+CXCL5	SOD2	0.01501454133540392	Co-expression	Wang-Maris-2006
+IL6	USP18	0.0150142265483737	Co-expression	Gysin-McMahon-2012
+IL1B	ADA	0.014984168112277985	Co-expression	Wu-Garvey-2007
+IFIT2	APOBEC3B	0.014977230690419674	Co-expression	Wang-Maris-2006
+IL1B	CXCL10	0.01495546754449606	Co-expression	Ramaswamy-Golub-2001
+IFIT3	CD24	0.014829309191554785	Co-expression	Rieger-Chu-2004; Smirnov-Cheung-2009
+IFIT2	GBP1	0.014766097068786621	Co-expression	Arijs-Rutgeerts-2009
+IFIT3	CXCL3	0.014722802676260471	Co-expression	Ramaswamy-Golub-2001
+CCL8	RIPK2	0.014714284799993038	Co-expression	Bild-Nevins-2006 B
+PTGS2	LILRA1	0.014665576629340649	Co-expression	Arijs-Rutgeerts-2009
+GPR183	CD24	0.014656603336334229	Co-expression	Burington-Shaughnessy-2008
+CXCL9	IFITM1	0.01465199701488018	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002
+IFNG	SCGB1A1	0.014651871286332607	Co-expression	Cheok-Evans-2003
+IL1B	ADM	0.014645447954535484	Co-expression	Wu-Garvey-2007
+IDO2	CYP27B1	0.014623918570578098	Co-expression	Arijs-Rutgeerts-2009
+SOD2	GBP5	0.014463821426033974	Co-expression	Arijs-Rutgeerts-2009
+CCL2	IDO1	0.014450089074671268	Co-expression	Salaverria-Siebert-2011
+CXCL5	IDO1	0.014441806823015213	Co-expression	Gysin-McMahon-2012
+IFIT3	CCL4	0.0144366305321455	Co-expression	Ramaswamy-Golub-2001
+IFNG	TNFSF10	0.014415949350222945	Co-expression	Salaverria-Siebert-2011; Wang-Maris-2006
+GBP1	S100A12	0.014401684515178204	Co-expression	Kang-Willman-2010
+IL8	SLAMF7	0.01440076855942607	Co-expression	Boldrick-Relman-2002; Smirnov-Cheung-2009
+IFNG	IDO2	0.014394811354577541	Co-expression	Arijs-Rutgeerts-2009
+IL8	CCL2	0.014392658602446318	Co-expression	Gysin-McMahon-2012; Innocenti-Brown-2011
+VEGFA	CCL20	0.014347498305141926	Co-expression	Wang-Maris-2006
+IDO1	APOBEC3B	0.01431718934327364	Co-expression	Bild-Nevins-2006 B
+CXCL3	SOD2	0.014305589720606804	Co-expression	Wang-Maris-2006
+ADM	CCL8	0.014273486100137234	Co-expression	Salaverria-Siebert-2011
+IDO1	SAMSN1	0.014272348023951054	Co-expression	Gysin-McMahon-2012
+CXCL5	SAMSN1	0.014265219680964947	Co-expression	Gysin-McMahon-2012
+CXCL3	RSAD2	0.014264136552810669	Co-expression	Ramaswamy-Golub-2001
+SERPINB3	BPIFB1	0.014120184816420078	Co-expression	Mallon-McKay-2013
+CD44	CXCL10	0.014096938073635101	Co-expression	Bild-Nevins-2006 B
+HCAR3	CCL8	0.014090776443481445	Co-expression	Innocenti-Brown-2011
+CCL20	SOD2	0.014002854935824871	Co-expression	Wang-Maris-2006
+IFIT2	PTGS2	0.013934223912656307	Co-expression	Ramaswamy-Golub-2001
+TAP1	CCL2	0.013919154182076454	Co-expression	Mallon-McKay-2013
+OAS2	CCL8	0.013918478041887283	Co-expression	Bild-Nevins-2006 B
+IFI44	SAMSN1	0.013910987414419651	Co-expression	Kang-Willman-2010
+CXCL10	CYP27B1	0.01389283500611782	Co-expression	Arijs-Rutgeerts-2009
+IFIT3	GPR183	0.013870458118617535	Co-expression	Ramaswamy-Golub-2001
+CXCL10	CCL13	0.013864762149751186	Co-expression	Mallon-McKay-2013
+SAMSN1	SERPINB9	0.013843764550983906	Co-expression	Arijs-Rutgeerts-2009
+CCL4	GBP1	0.013754370156675577	Co-expression	Bild-Nevins-2006 B; Salaverria-Siebert-2011
+IFI44	CXCL3	0.013727002777159214	Co-expression	Ramaswamy-Golub-2001
+VEGFA	APOBEC3B	0.013723366893827915	Co-expression	Smirnov-Cheung-2009
+CCL3	IFITM1	0.013718714006245136	Co-expression	Alizadeh-Staudt-2000
+CCL8	GBP5	0.013714678585529327	Co-expression	Arijs-Rutgeerts-2009
+HCAR3	CXCL11	0.013703773729503155	Co-expression	Gysin-McMahon-2012
+S100A12	USP18	0.01367071270942688	Co-expression	Chen-Brown-2002
+IL1B	CCL8	0.013641362078487873	Co-expression	Innocenti-Brown-2011
+SOD2	IL1RN	0.013629832305014133	Co-expression	Ramaswamy-Golub-2001
+CXCL5	PLAC8	0.013607438653707504	Co-expression	Boldrick-Relman-2002
+IFI44	IL6	0.013607089407742023	Co-expression	Gysin-McMahon-2012
+CXCL2	SERPINB3	0.013603013008832932	Co-expression	Bild-Nevins-2006 B
+TNF	PTX3	0.013578230515122414	Co-expression	Ramaswamy-Golub-2001
+STAT1	CCL8	0.013572340831160545	Co-expression	Bild-Nevins-2006 B
+CCL2	CCL3L3	0.013482343405485153	Co-expression	Innocenti-Brown-2011
+MX1	CXCL2	0.013470605947077274	Co-expression	Ramaswamy-Golub-2001
+IFIT3	CCL13	0.013467777520418167	Co-expression	Mallon-McKay-2013
+RASGRP1	IDO1	0.013448742218315601	Co-expression	Wang-Maris-2006
+IFNG	GPR183	0.013418675400316715	Co-expression	Innocenti-Brown-2011
+IFNG	PTX3	0.01339578814804554	Co-expression	Kang-Willman-2010
+HCAR3	SLAMF7	0.013322089798748493	Co-expression	Mallon-McKay-2013
+TAP1	APOBEC3B	0.01322564110159874	Co-expression	Salaverria-Siebert-2011
+IFIT3	CXCL2	0.013219972141087055	Co-expression	Ramaswamy-Golub-2001
+CCL4	CCL8	0.013203296810388565	Co-expression	Innocenti-Brown-2011
+HCAR3	CXCL2	0.013170869089663029	Co-expression	Burington-Shaughnessy-2008
+IFITM1	ADM	0.013165082782506943	Co-expression	Mallon-McKay-2013
+ISG20	TNFSF8	0.013142206706106663	Co-expression	Kang-Willman-2010
+EDN1	MYO10	0.013139421120285988	Co-expression	Chen-Brown-2002
+CXCL11	USP18	0.01311598252505064	Co-expression	Salaverria-Siebert-2011
+ADA	SLAMF7	0.013110949657857418	Co-expression	Arijs-Rutgeerts-2009
+CXCL9	CXCL1	0.013087228871881962	Co-expression	Boldrick-Relman-2002
+IL6	SERPINB3	0.013020687736570835	Co-expression	Bild-Nevins-2006 B
+IL8	CCL13	0.01299072615802288	Co-expression	Alizadeh-Staudt-2000
+MX1	IL6	0.012949428521096706	Co-expression	Gysin-McMahon-2012
+IFNG	S100A12	0.012937161140143871	Co-expression	Kang-Willman-2010
+SERPINB3	BPIFA1	0.012929043732583523	Co-expression	Mallon-McKay-2013
+IFIT3	IL6	0.012889578007161617	Co-expression	Ramaswamy-Golub-2001
+HCAR3	USP18	0.012888713739812374	Co-expression	Chen-Brown-2002
+IFNG	IL1B	0.012852955609560013	Co-expression	Innocenti-Brown-2011
+CXCL9	GBP4	0.012819165363907814	Co-expression	Arijs-Rutgeerts-2009
+CXCL9	CD80	0.012752414681017399	Co-expression	Rieger-Chu-2004; Smirnov-Cheung-2009
+IFIT3	IL1B	0.012746217660605907	Co-expression	Ramaswamy-Golub-2001
+IFIT2	GBP4	0.012695704586803913	Co-expression	Arijs-Rutgeerts-2009
+CXCL3	VEGFA	0.012678129598498344	Co-expression	Wang-Maris-2006
+IL1B	IDO1	0.012659826315939426	Co-expression	Roth-Zlotnik-2006
+RASGRP1	ADA	0.012581873685121536	Co-expression	Ramaswamy-Golub-2001
+PTX3	CXCL10	0.012561784125864506	Co-expression	Ramaswamy-Golub-2001
+IFIT2	IDO2	0.012517042458057404	Co-expression	Mallon-McKay-2013
+PTGS2	SOD2	0.012486553750932217	Co-expression	Wang-Maris-2006
+IFIT2	GBP5	0.012473950162529945	Co-expression	Arijs-Rutgeerts-2009
+GBP1	IL8	0.012471681460738182	Co-expression	Kang-Willman-2010
+CXCL9	GPR183	0.012391495518386364	Co-expression	Rieger-Chu-2004; Smirnov-Cheung-2009
+PTGS2	APOBEC3A	0.012372825294733047	Co-expression	Arijs-Rutgeerts-2009
+PTX3	RSAD2	0.012357761152088642	Co-expression	Rieger-Chu-2004
+IL1B	IFITM1	0.012297186069190502	Co-expression	Alizadeh-Staudt-2000
+S100A12	LILRA1	0.012225677259266376	Co-expression	Mallon-McKay-2013
+ISG20	IDO1	0.012188450433313847	Co-expression	Wang-Maris-2006
+IFNG	GBP4	0.01212382223457098	Co-expression	Arijs-Rutgeerts-2009
+S100A12	CYP27B1	0.012076599523425102	Co-expression	Wu-Garvey-2007
+CCL5	GBP4	0.012067563831806183	Co-expression	Roth-Zlotnik-2006
+OAS2	GBP4	0.012051660567522049	Co-expression	Arijs-Rutgeerts-2009
+ISG20	CXCL11	0.01203667651861906	Co-expression	Wang-Maris-2006
+PTX3	CCL13	0.012029153294861317	Co-expression	Innocenti-Brown-2011
+CXCL10	GBP4	0.011977960355579853	Co-expression	Arijs-Rutgeerts-2009
+CXCL10	RIPK2	0.011976341716945171	Co-expression	Bild-Nevins-2006 B
+OASL	CXCL3	0.011967766098678112	Co-expression	Ramaswamy-Golub-2001
+PIGR	CYP27B1	0.0119476318359375	Co-expression	Wang-Maris-2006
+CXCL10	EDN1	0.011896826326847076	Co-expression	Mallon-McKay-2013
+CXCL9	CCL13	0.011883564293384552	Co-expression	Mallon-McKay-2013
+CXCL2	RSAD2	0.011874663643538952	Co-expression	Ramaswamy-Golub-2001
+SAMSN1	CD80	0.011861392296850681	Co-expression	Arijs-Rutgeerts-2009
+CCL5	CD44	0.011846563778817654	Co-expression	Boldrick-Relman-2002
+CD44	CCL20	0.0118373092263937	Co-expression	Mallon-McKay-2013
+IFIT3	IDO1	0.011751361191272736	Co-expression	Salaverria-Siebert-2011
+CXCL1	CCL8	0.011746753938496113	Co-expression	Burington-Shaughnessy-2008
+CXCL9	EDN1	0.011705167591571808	Co-expression	Mallon-McKay-2013
+S100A12	IL1RN	0.01166156679391861	Co-expression	Bahr-Bowler-2013
+ISG15	CD24	0.01163049228489399	Co-expression	Rieger-Chu-2004
+IFIT2	CXCL2	0.011625251732766628	Co-expression	Ramaswamy-Golub-2001
+CCL5	APOBEC3A	0.011614887043833733	Co-expression	Mallon-McKay-2013
+IFIT2	IDO1	0.011582829058170319	Co-expression	Salaverria-Siebert-2011
+PTX3	CCL7	0.011582336388528347	Co-expression	Innocenti-Brown-2011
+CCL8	APOBEC3B	0.011581331491470337	Co-expression	Bild-Nevins-2006 B
+PTX3	SAMSN1	0.011573376134037971	Co-expression	Mallon-McKay-2013
+CXCL9	RASGRP1	0.011558035388588905	Co-expression	Wang-Maris-2006
+IDO2	RSAD2	0.011527597904205322	Co-expression	Mallon-McKay-2013
+IL6	TNFSF10	0.0114806042984128	Co-expression	Rieger-Chu-2004
+VEGFA	MYO10	0.011478143744170666	Co-expression	Bild-Nevins-2006 B
+PTX3	APOBEC3A	0.011476310901343822	Co-expression	Kang-Willman-2010
+IFI44L	IL6	0.011455954052507877	Co-expression	Gysin-McMahon-2012
+CCL4	IDO1	0.011404303833842278	Co-expression	Salaverria-Siebert-2011
+S100A12	GBP5	0.011389263905584812	Co-expression	Kang-Willman-2010
+ISG15	CCL8	0.01137060672044754	Co-expression	Bild-Nevins-2006 B
+GBP1	CXCL1	0.011333914007991552	Co-expression	Alizadeh-Staudt-2000; Boldrick-Relman-2002
+ISG15	CXCL2	0.011323284357786179	Co-expression	Ramaswamy-Golub-2001
+CXCL1	CXCL10	0.011282871477305889	Co-expression	Bild-Nevins-2006 B
+IFITM1	IDO1	0.011246006935834885	Co-expression	Arijs-Rutgeerts-2009
+CXCL1	APOBEC3B	0.011243266984820366	Co-expression	Wang-Maris-2006
+IFIT3	CCL5	0.011205542832612991	Co-expression	Gysin-McMahon-2012
+PTX3	MYO10	0.01118332426995039	Co-expression	Wu-Garvey-2007
+CCL2	APOBEC3A	0.011165374889969826	Co-expression	Arijs-Rutgeerts-2009
+CXCL5	CCL2	0.011144382879137993	Co-expression	Ramaswamy-Golub-2001
+IFIT3	GBP4	0.011128178797662258	Co-expression	Arijs-Rutgeerts-2009
+CXCL2	SLAMF7	0.011119545437395573	Co-expression	Boldrick-Relman-2002
+CCL3	CCL13	0.011072038672864437	Co-expression	Chen-Brown-2002
+S100A12	CCL20	0.011070583947002888	Co-expression	Wang-Maris-2006
+IDO2	GBP1	0.01106620766222477	Co-expression	Arijs-Rutgeerts-2009
+SAMSN1	IL1RN	0.011063629761338234	Co-expression	Arijs-Rutgeerts-2009
+GPR183	VEGFA	0.011052875779569149	Co-expression	Bahr-Bowler-2013
+IL1B	LILRA1	0.011051266454160213	Co-expression	Arijs-Rutgeerts-2009
+OASL	GPR183	0.011026721447706223	Co-expression	Ramaswamy-Golub-2001
+PTGS2	VEGFA	0.01099605392664671	Co-expression	Wang-Maris-2006
+IFIT3	IL1RN	0.010985580272972584	Co-expression	Ramaswamy-Golub-2001
+IDO2	CCL8	0.010967648588120937	Co-expression	Mallon-McKay-2013
+CCL4	CCL13	0.01096536498516798	Co-expression	Bild-Nevins-2006 B
+CXCL10	APOBEC3A	0.010944535955786705	Co-expression	Mallon-McKay-2013
+ISG20	CCL8	0.010922438465058804	Co-expression	Bild-Nevins-2006 B
+CXCL5	APOBEC3B	0.010907751508057117	Co-expression	Wu-Garvey-2007
+OAS2	CD24	0.01089666411280632	Co-expression	Rieger-Chu-2004
+CD44	IL1RN	0.01089093741029501	Co-expression	Boldrick-Relman-2002
+CXCL2	CXCL10	0.010864597745239735	Co-expression	Bild-Nevins-2006 B
+CCL4	EDN1	0.010860770009458065	Co-expression	Smirnov-Cheung-2009
+STAT1	GBP4	0.010860349982976913	Co-expression	Arijs-Rutgeerts-2009
+ISG15	GBP4	0.010804158635437489	Co-expression	Arijs-Rutgeerts-2009
+IFI44	CXCL2	0.010693210177123547	Co-expression	Ramaswamy-Golub-2001
+STAT1	SERPINB9	0.01068518590182066	Co-expression	Salaverria-Siebert-2011
+IL1B	CD44	0.010669793002307415	Co-expression	Boldrick-Relman-2002
+RASGRP1	EDN1	0.010649840347468853	Co-expression	Smirnov-Cheung-2009
+IFIT2	CD24	0.010630074888467789	Co-expression	Rieger-Chu-2004
+PTX3	GBP5	0.010619932785630226	Co-expression	Kang-Willman-2010
+CXCL2	PTX3	0.010573501698672771	Co-expression	Ramaswamy-Golub-2001
+GPR183	SERPINB3	0.010537447407841682	Co-expression	Wu-Garvey-2007
+CXCL5	CYP27B1	0.010466143488883972	Co-expression	Wu-Garvey-2007
+IDO2	IFI44L	0.010456280782818794	Co-expression	Mallon-McKay-2013
+CCL3	LILRA1	0.010434415191411972	Co-expression	Chen-Brown-2002
+CCL7	SERPINB9	0.010373014025390148	Co-expression	Chen-Brown-2002
+PTX3	ADM	0.010318713262677193	Co-expression	Innocenti-Brown-2011
+PTGS2	CCL13	0.01031506061553955	Co-expression	Alizadeh-Staudt-2000
+IL6	SERPINB9	0.01026981882750988	Co-expression	Innocenti-Brown-2011
+IFI44	GBP4	0.010269155725836754	Co-expression	Arijs-Rutgeerts-2009
+PTX3	VEGFA	0.010256452485918999	Co-expression	Bahr-Bowler-2013
+IFITM1	CXCL11	0.01024602074176073	Co-expression	Arijs-Rutgeerts-2009
+USP18	GBP4	0.010168797336518764	Co-expression	Arijs-Rutgeerts-2009
+CCL13	GBP5	0.010166550055146217	Co-expression	Mallon-McKay-2013
+CCL2	RIPK2	0.010158546268939972	Co-expression	Innocenti-Brown-2011
+ISG20	RASGRP1	0.01011113915592432	Co-expression	Wang-Maris-2006
+CXCL9	APOBEC3A	0.010093322023749352	Co-expression	Mallon-McKay-2013
+CXCL5	CD44	0.010084612295031548	Co-expression	Innocenti-Brown-2011
+S100A12	RIPK2	0.010067643597722054	Co-expression	Wang-Maris-2006
+IL6	CCL3L3	0.01005440391600132	Co-expression	Innocenti-Brown-2011
+PTGS2	CCL8	0.010053128004074097	Co-expression	Innocenti-Brown-2011
+HCAR3	VEGFA	0.010035235434770584	Co-expression	Bahr-Bowler-2013
+CXCL9	PTX3	0.010026566684246063	Co-expression	Rieger-Chu-2004
+HCAR3	GBP5	0.01002306304872036	Co-expression	Arijs-Rutgeerts-2009
+SAMSN1	SOD2	0.010016974061727524	Co-expression	Arijs-Rutgeerts-2009
+IFI44L	GBP5	0.010013558901846409	Co-expression	Innocenti-Brown-2011
+CCL20	CCL7	0.00997085403650999	Co-expression	Innocenti-Brown-2011
+IFNG	CXCL3	0.009936492890119553	Co-expression	Kang-Willman-2010
+CCL20	APOBEC3B	0.009903146885335445	Co-expression	Mallon-McKay-2013
+CD24	USP18	0.009897809475660324	Co-expression	Smirnov-Cheung-2009
+APOBEC3A	LILRA1	0.009871913120150566	Co-expression	Bahr-Bowler-2013
+MX1	CXCL9	0.00985276885330677	Co-expression	Boldrick-Relman-2002
+PTGS2	CCL3L3	0.009829857386648655	Co-expression	Innocenti-Brown-2011
+CCL3	GPR183	0.009801940992474556	Co-expression	Innocenti-Brown-2011
+PLAC8	CCL8	0.00979288574308157	Co-expression	Boldrick-Relman-2002
+IFNG	IL6	0.009774097241461277	Co-expression	Innocenti-Brown-2011
+IL8	CXCL11	0.009758974425494671	Co-expression	Bild-Nevins-2006 B
+RSAD2	CD24	0.009752171114087105	Co-expression	Smirnov-Cheung-2009
+CXCL3	IDO1	0.009741301648318768	Co-expression	Gysin-McMahon-2012
+CXCL2	S100A12	0.009694217704236507	Co-expression	Ramaswamy-Golub-2001
+CD24	MYO10	0.009664040058851242	Co-expression	Bild-Nevins-2006 B
+CXCL1	SOD2	0.009649395011365414	Co-expression	Gysin-McMahon-2012
+IFITM1	RIPK2	0.009628811851143837	Co-expression	Arijs-Rutgeerts-2009
+IDO2	GBP4	0.009521136060357094	Co-expression	Arijs-Rutgeerts-2009
+MX1	IL8	0.00951464381068945	Co-expression	Ramaswamy-Golub-2001
+PTGS2	CD44	0.009504463523626328	Co-expression	Chen-Brown-2002
+OASL	IL8	0.00940882507711649	Co-expression	Ramaswamy-Golub-2001
+SLAMF7	CYP27B1	0.009330783039331436	Co-expression	Arijs-Rutgeerts-2009
+IL8	MYO10	0.009312234818935394	Co-expression	Gysin-McMahon-2012
+IL1B	APOBEC3A	0.009302004240453243	Co-expression	Arijs-Rutgeerts-2009
+STAT1	APOBEC3A	0.00928061455488205	Co-expression	Salaverria-Siebert-2011
+ISG15	IL8	0.009263960644602776	Co-expression	Ramaswamy-Golub-2001
+CCL20	CCL8	0.00918753631412983	Co-expression	Innocenti-Brown-2011
+IFNG	CD80	0.009164215996861458	Co-expression	Gysin-McMahon-2012
+IFNG	PLAC8	0.009145606309175491	Co-expression	Smirnov-Cheung-2009
+RASGRP1	PLAC8	0.009133454412221909	Co-expression	Boldrick-Relman-2002
+IFIT2	IL8	0.009100982919335365	Co-expression	Ramaswamy-Golub-2001
+RSAD2	TNFSF8	0.009083629585802555	Co-expression	Smirnov-Cheung-2009
+TNF	IL1RN	0.009076892398297787	Co-expression	Boldrick-Relman-2002
+CXCL5	RASGRP1	0.008992701768875122	Co-expression	Boldrick-Relman-2002
+GPR183	IL1RN	0.00898640975356102	Co-expression	Ramaswamy-Golub-2001
+GPR183	APOBEC3A	0.008959310129284859	Co-expression	Mallon-McKay-2013
+IL8	RSAD2	0.008864625357091427	Co-expression	Ramaswamy-Golub-2001
+GPR183	RIPK2	0.00883455015718937	Co-expression	Bahr-Bowler-2013
+ISG20	ADA	0.008824486285448074	Co-expression	Roth-Zlotnik-2006
+OAS2	SLAMF7	0.008814427070319653	Co-expression	Salaverria-Siebert-2011
+ISG20	IL8	0.008740708231925964	Co-expression	Smirnov-Cheung-2009
+IL8	CD44	0.00871091429144144	Co-expression	Ramaswamy-Golub-2001
+GBP1	ADA	0.00867876224219799	Co-expression	Alizadeh-Staudt-2000
+CCL3	CCL5	0.008605001494288445	Co-expression	Chen-Brown-2002
+IL6	CCL13	0.00857088528573513	Co-expression	Innocenti-Brown-2011
+PTGS2	SERPINB3	0.008503179997205734	Co-expression	Gysin-McMahon-2012
+MX1	GBP4	0.008480730466544628	Co-expression	Arijs-Rutgeerts-2009
+CXCL1	IL1RN	0.008404674008488655	Co-expression	Boldrick-Relman-2002
+ADM	RIPK2	0.008383672684431076	Co-expression	Bahr-Bowler-2013
+ISG20	GBP5	0.008383343927562237	Co-expression	Roth-Zlotnik-2006
+IFITM1	GBP4	0.008373136632144451	Co-expression	Arijs-Rutgeerts-2009
+IFITM1	SERPINB9	0.008347323164343834	Co-expression	Kang-Willman-2010
+TNFSF10	CXCL1	0.00834286492317915	Co-expression	Alizadeh-Staudt-2000
+IL6	SCGB1A1	0.008298041298985481	Co-expression	Cheok-Evans-2003
+SOD2	CXCL11	0.008275906555354595	Co-expression	Bild-Nevins-2006 B
+CCL20	SAMSN1	0.008252611383795738	Co-expression	Smirnov-Cheung-2009
+GBP1	APOBEC3B	0.008233207277953625	Co-expression	Bild-Nevins-2006 B
+CXCL2	SAMSN1	0.00816656555980444	Co-expression	Boldrick-Relman-2002
+GPR183	GBP4	0.008150463923811913	Co-expression	Mallon-McKay-2013
+RASGRP1	SLAMF7	0.00808604247868061	Co-expression	Boldrick-Relman-2002
+CCL2	CCL13	0.008035535924136639	Co-expression	Chen-Brown-2002
+RSAD2	GBP4	0.007983877323567867	Co-expression	Arijs-Rutgeerts-2009
+IFIT2	CXCL11	0.007911420427262783	Co-expression	Bild-Nevins-2006 B
+CCL20	CD80	0.007892031222581863	Co-expression	Smirnov-Cheung-2009
+PLAC8	SERPINB9	0.007884303107857704	Co-expression	Chen-Brown-2002
+ISG20	CCL20	0.007835975848138332	Co-expression	Roth-Zlotnik-2006
+IFNG	IFIT3	0.007711503654718399	Co-expression	Salaverria-Siebert-2011
+TAP1	CCL8	0.007674843072891235	Co-expression	Bild-Nevins-2006 B
+CXCL10	CD80	0.007637529168277979	Co-expression	Rieger-Chu-2004
+OASL	IFNG	0.007621090393513441	Co-expression	Salaverria-Siebert-2011
+TNFSF10	SAMSN1	0.007619787473231554	Co-expression	Salaverria-Siebert-2011
+TAP1	SOD2	0.0075560202822089195	Co-expression	Bild-Nevins-2006 B
+CCL5	APOBEC3B	0.0075217848643660545	Co-expression	Bild-Nevins-2006 B
+IFI44	GBP5	0.007514393888413906	Co-expression	Innocenti-Brown-2011
+CCL5	TNF	0.007465172093361616	Co-expression	Innocenti-Brown-2011
+PLAC8	MYO10	0.007440401706844568	Co-expression	Chen-Brown-2002
+TAP1	CXCL1	0.00741870841011405	Co-expression	Bild-Nevins-2006 B
+CCL2	MYO10	0.0074126580730080605	Co-expression	Gysin-McMahon-2012
+VEGFA	RIPK2	0.007393190171569586	Co-expression	Bahr-Bowler-2013
+CCL3	GBP5	0.007333154324442148	Co-expression	Innocenti-Brown-2011
+CXCL2	ADM	0.007295357994735241	Co-expression	Arijs-Rutgeerts-2009
+CCL5	GPR183	0.007211577612906694	Co-expression	Mallon-McKay-2013
+IL6	CD24	0.00718440068885684	Co-expression	Smirnov-Cheung-2009
+RSAD2	GBP5	0.00715964799746871	Co-expression	Innocenti-Brown-2011
+ISG20	CXCL1	0.007156460080295801	Co-expression	Chen-Brown-2002
+CCL5	CCL8	0.006983880884945393	Co-expression	Bild-Nevins-2006 B
+CCL5	IFITM1	0.006978003308176994	Co-expression	Alizadeh-Staudt-2000
+CCL2	SAMSN1	0.006975407246500254	Co-expression	Chen-Brown-2002
+S100A12	CD44	0.0069306762889027596	Co-expression	Innocenti-Brown-2011
+RASGRP1	CCL8	0.006913214921951294	Co-expression	Boldrick-Relman-2002
+RASGRP1	SOD2	0.006895631551742554	Co-expression	Gysin-McMahon-2012
+TNF	SLAMF7	0.006873290054500103	Co-expression	Innocenti-Brown-2011
+SLAMF7	CCL3L3	0.00687205046415329	Co-expression	Innocenti-Brown-2011
+IL6	CD80	0.006862598471343517	Co-expression	Smirnov-Cheung-2009
+TNF	RASGRP1	0.006857915315777063	Co-expression	Gysin-McMahon-2012
+CCL5	CCL2	0.00683433236554265	Co-expression	Alizadeh-Staudt-2000
+TNFSF10	APOBEC3A	0.006827658973634243	Co-expression	Salaverria-Siebert-2011
+IL1B	GBP5	0.006789966952055693	Co-expression	Arijs-Rutgeerts-2009
+CCL3	SLAMF7	0.006753344088792801	Co-expression	Innocenti-Brown-2011
+ISG20	USP18	0.006691306363791227	Co-expression	Smirnov-Cheung-2009
+SLAMF7	GBP4	0.006641230080276728	Co-expression	Innocenti-Brown-2011
+CXCL3	SERPINB3	0.006606225855648518	Co-expression	Arijs-Rutgeerts-2009
+GBP1	CCL13	0.006579071749001741	Co-expression	Bild-Nevins-2006 B
+STAT1	SLAMF7	0.006548658944666386	Co-expression	Salaverria-Siebert-2011
+S100A12	CCL2	0.006449069827795029	Co-expression	Chen-Brown-2002
+SLAMF7	SAMSN1	0.00640249066054821	Co-expression	Boldrick-Relman-2002
+GPR183	CXCL11	0.006349751725792885	Co-expression	Smirnov-Cheung-2009
+PLAC8	CD24	0.006339114625006914	Co-expression	Arijs-Rutgeerts-2009
+ISG20	SERPINB9	0.006305425427854061	Co-expression	Smirnov-Cheung-2009
+CCL5	ISG20	0.00628083199262619	Co-expression	Roth-Zlotnik-2006
+CXCL1	RIPK2	0.006253146566450596	Co-expression	Arijs-Rutgeerts-2009
+PTGS2	SAMSN1	0.0062495023012161255	Co-expression	Smirnov-Cheung-2009
+CXCL2	ISG20	0.0060397908091545105	Co-expression	Chen-Brown-2002
+IFNG	SLAMF7	0.005929392762482166	Co-expression	Salaverria-Siebert-2011
+PTGS2	RASGRP1	0.005887569859623909	Co-expression	Wu-Garvey-2007
+CCL3	TNFSF10	0.005736436694860458	Co-expression	Chen-Brown-2002
+CCL2	SOD2	0.00566030154004693	Co-expression	Gysin-McMahon-2012
+CXCL2	PIGR	0.00562883447855711	Co-expression	Cheok-Evans-2003
+GBP1	SLAMF7	0.005532129667699337	Co-expression	Salaverria-Siebert-2011
+ISG20	IL6	0.005529106128960848	Co-expression	Boldrick-Relman-2002
+CXCL9	SAMSN1	0.005348465405404568	Co-expression	Smirnov-Cheung-2009
+CCL2	EDN1	0.005337304435670376	Co-expression	Gysin-McMahon-2012
+RASGRP1	CCL20	0.005285518243908882	Co-expression	Gysin-McMahon-2012
+IDO1	PIGR	0.005211479030549526	Co-expression	Rieger-Chu-2004
+TNFSF10	IDO1	0.005173590965569019	Co-expression	Salaverria-Siebert-2011
+RASGRP1	SAMSN1	0.005039607174694538	Co-expression	Boldrick-Relman-2002
+CXCL2	RASGRP1	0.005005390848964453	Co-expression	Gysin-McMahon-2012
+CXCL10	SAMSN1	0.0049695358611643314	Co-expression	Smirnov-Cheung-2009
+GPR183	CD80	0.004814100451767445	Co-expression	Rieger-Chu-2004
+IL6	IFITM1	0.004759333096444607	Co-expression	Boldrick-Relman-2002
+CCL2	PLAC8	0.004733419045805931	Co-expression	Chen-Brown-2002
+RASGRP1	CXCL1	0.004616384394466877	Co-expression	Gysin-McMahon-2012
+ISG20	SAMSN1	0.004611482378095388	Co-expression	Boldrick-Relman-2002
+CXCL2	GBP1	0.00455069076269865	Co-expression	Boldrick-Relman-2002
+S100A12	APOBEC3B	0.004537052474915981	Co-expression	Roth-Zlotnik-2006
+IL1B	SLAMF7	0.004284780006855726	Co-expression	Innocenti-Brown-2011
+RASGRP1	CXCL10	0.004276585299521685	Co-expression	Wu-Garvey-2007
+GPR183	SLAMF7	0.004083725623786449	Co-expression	Arijs-Rutgeerts-2009
+TNFSF10	SLAMF7	0.004041633103042841	Co-expression	Salaverria-Siebert-2011
+ADM	IDO1	0.004027859773486853	Co-expression	Arijs-Rutgeerts-2009
+CCL5	SLAMF7	0.003967538475990295	Co-expression	Innocenti-Brown-2011
+IFITM1	SAMSN1	0.003436381695792079	Co-expression	Boldrick-Relman-2002
+PIGR	CCL7	0.003432231256738305	Co-expression	Cheok-Evans-2003
+CXCL5	TNF	0.0034287816379219294	Co-expression	Bild-Nevins-2006 B
+PIGR	SERPINB3	0.0033565491903573275	Co-expression	Burington-Shaughnessy-2008
+GBP1	SAMSN1	0.0033462122082710266	Co-expression	Boldrick-Relman-2002
+GBP1	ISG20	0.003254552837461233	Co-expression	Boldrick-Relman-2002
+RASGRP1	CCL2	0.0030994368717074394	Co-expression	Gysin-McMahon-2012
+SLAMF7	CD80	0.002713896334171295	Co-expression	Smirnov-Cheung-2009
+PIGR	SCGB1A1	0.0026973008643835783	Co-expression	Burington-Shaughnessy-2008
+CXCL3	ADM	0.00250476086512208	Co-expression	Arijs-Rutgeerts-2009
+TNF	PIGR	0.0013270119670778513	Co-expression	Burington-Shaughnessy-2008
+CXCL5	PIGR	0.001233027083799243	Co-expression	Bild-Nevins-2006 B
+CXCL3	CXCL1	0.0685455072671175	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+CXCL2	CXCL3	0.04836449585855007	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+CXCL3	IL8	0.04501762613654137	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+IL8	CXCL1	0.041699761524796486	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+IL1B	IL8	0.03288229461759329	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+IL6	EDN1	0.029836073517799377	Co-localization	Johnson-Shoemaker-2003; Schadt-Shoemaker-2004
+CXCL2	IL6	0.02962857112288475	Co-localization	Schadt-Shoemaker-2004
+CXCL2	CXCL1	0.029511606320738792	Co-localization	Johnson-Shoemaker-2003
+IL6	CXCL1	0.02717883139848709	Co-localization	Schadt-Shoemaker-2004
+IFI44	IFI44L	0.026892632246017456	Co-localization	Johnson-Shoemaker-2003
+CXCL3	IL6	0.0258038267493248	Co-localization	Schadt-Shoemaker-2004
+IL1B	CCL20	0.02491755411028862	Co-localization	Johnson-Shoemaker-2003
+CXCL3	SOD2	0.023359011858701706	Co-localization	Schadt-Shoemaker-2004
+IL6	IL8	0.023131297901272774	Co-localization	Schadt-Shoemaker-2004
+CD80	SERPINB9	0.02131679281592369	Co-localization	Johnson-Shoemaker-2003
+MX1	IFI44	0.021200334653258324	Co-localization	Johnson-Shoemaker-2003
+IFI44L	TNFSF8	0.02081429772078991	Co-localization	Johnson-Shoemaker-2003
+TAP1	IFI44L	0.019384199753403664	Co-localization	Johnson-Shoemaker-2003
+CXCL5	CCL13	0.018596187233924866	Co-localization	Johnson-Shoemaker-2003
+CXCL2	IL8	0.018373942002654076	Co-localization	Johnson-Shoemaker-2003
+OASL	IL1RN	0.01795051433146	Co-localization	Johnson-Shoemaker-2003
+OAS2	IFI44L	0.01736442558467388	Co-localization	Johnson-Shoemaker-2003
+MX1	CXCL9	0.01717410422861576	Co-localization	Johnson-Shoemaker-2003
+IL8	IL1RN	0.016787517815828323	Co-localization	Schadt-Shoemaker-2004
+PTGS2	IL8	0.016729194670915604	Co-localization	Johnson-Shoemaker-2003
+IFIT3	PTGS2	0.016211040318012238	Co-localization	Schadt-Shoemaker-2004
+CCL2	CCL20	0.01602783240377903	Co-localization	Johnson-Shoemaker-2003
+CXCL5	IL1B	0.015914401039481163	Co-localization	Johnson-Shoemaker-2003
+IFIT3	IFI44L	0.01568005606532097	Co-localization	Johnson-Shoemaker-2003
+TAP1	IFI44	0.015625853091478348	Co-localization	Johnson-Shoemaker-2003
+OASL	PTGS2	0.015621720813214779	Co-localization	Johnson-Shoemaker-2003
+IL1B	CXCL1	0.015503928996622562	Co-localization	Schadt-Shoemaker-2004
+MX1	STAT1	0.01534636877477169	Co-localization	Johnson-Shoemaker-2003
+STAT1	IFI44L	0.015185819007456303	Co-localization	Johnson-Shoemaker-2003
+IL6	MYO10	0.014979776926338673	Co-localization	Johnson-Shoemaker-2003
+IFI44	TNFSF8	0.014853025786578655	Co-localization	Johnson-Shoemaker-2003
+IL1B	CCL2	0.014638585038483143	Co-localization	Johnson-Shoemaker-2003
+IL8	CCL20	0.014524593017995358	Co-localization	Johnson-Shoemaker-2003
+OASL	IFI44	0.014250455424189568	Co-localization	Johnson-Shoemaker-2003
+IFNG	IL8	0.014063305221498013	Co-localization	Schadt-Shoemaker-2004
+ADA	USP18	0.013973360881209373	Co-localization	Johnson-Shoemaker-2003
+PTGS2	IL6	0.013879407197237015	Co-localization	Schadt-Shoemaker-2004
+CXCL1	CD44	0.013832131400704384	Co-localization	Schadt-Shoemaker-2004
+PTGS2	CXCL1	0.013624776154756546	Co-localization	Schadt-Shoemaker-2004
+CXCL3	CCL2	0.013387778773903847	Co-localization	Johnson-Shoemaker-2003
+OAS2	TNFSF8	0.01335176546126604	Co-localization	Johnson-Shoemaker-2003
+IL6	CCL2	0.013246653601527214	Co-localization	Johnson-Shoemaker-2003
+IL1B	EDN1	0.013195999898016453	Co-localization	Johnson-Shoemaker-2003
+CCL2	CXCL1	0.013077100738883018	Co-localization	Johnson-Shoemaker-2003
+MX1	IFNG	0.012274977751076221	Co-localization	Johnson-Shoemaker-2003
+BPIFA1	BPIFB1	0.012249467894434929	Co-localization	Johnson-Shoemaker-2003
+IL8	CCL2	0.012209095060825348	Co-localization	Johnson-Shoemaker-2003
+IFI44	IFIT3	0.012149137444794178	Co-localization	Johnson-Shoemaker-2003
+CCL4	CCL7	0.011850209906697273	Co-localization	Johnson-Shoemaker-2003
+PTX3	CCL7	0.011836747638881207	Co-localization	Johnson-Shoemaker-2003
+TAP1	OAS2	0.011816845275461674	Co-localization	Johnson-Shoemaker-2003
+PTGS2	CD44	0.01175328902900219	Co-localization	Schadt-Shoemaker-2004
+IL1B	IL6	0.011710776947438717	Co-localization	Johnson-Shoemaker-2003
+IFI44	STAT1	0.011604099534451962	Co-localization	Johnson-Shoemaker-2003
+PTGS2	CCL2	0.011534378863871098	Co-localization	Johnson-Shoemaker-2003
+CCL20	EDN1	0.01146662887185812	Co-localization	Johnson-Shoemaker-2003
+OAS2	IFI44	0.01133462693542242	Co-localization	Johnson-Shoemaker-2003
+CXCL1	SCGB1A1	0.01118121575564146	Co-localization	Johnson-Shoemaker-2003
+IL1B	PTGS2	0.011101447977125645	Co-localization	Schadt-Shoemaker-2004
+TAP1	STAT1	0.011006629094481468	Co-localization	Johnson-Shoemaker-2003
+IFNG	GBP4	0.010869800113141537	Co-localization	Johnson-Shoemaker-2003
+CCL2	EDN1	0.010637846775352955	Co-localization	Johnson-Shoemaker-2003
+CCL3	RIPK2	0.010598492808640003	Co-localization	Johnson-Shoemaker-2003
+SCGB1A1	GBP4	0.010190542787313461	Co-localization	Johnson-Shoemaker-2003
+MX1	GBP5	0.01010617520660162	Co-localization	Johnson-Shoemaker-2003
+CXCL1	IDO1	0.010038856416940689	Co-localization	Schadt-Shoemaker-2004
+IFIT3	TNFSF8	0.009803403168916702	Co-localization	Johnson-Shoemaker-2003
+TNFSF10	GBP4	0.009540911763906479	Co-localization	Johnson-Shoemaker-2003
+IDO1	CD44	0.00952010229229927	Co-localization	Schadt-Shoemaker-2004
+MX1	CCL5	0.009505582973361015	Co-localization	Johnson-Shoemaker-2003
+IFNG	IDO1	0.009464236907660961	Co-localization	Schadt-Shoemaker-2004
+MX1	GBP1	0.009418772533535957	Co-localization	Johnson-Shoemaker-2003
+SCGB1A1	EDN1	0.009091751649975777	Co-localization	Johnson-Shoemaker-2003
+STAT1	CXCL9	0.009052573703229427	Co-localization	Johnson-Shoemaker-2003
+CXCL5	CCL5	0.008867433294653893	Co-localization	Johnson-Shoemaker-2003
+IL6	SCGB1A1	0.008834696374833584	Co-localization	Johnson-Shoemaker-2003
+IFI44	IFNG	0.008728542365133762	Co-localization	Johnson-Shoemaker-2003
+GBP1	GBP4	0.008470634929835796	Co-localization	Johnson-Shoemaker-2003
+CXCL5	GBP5	0.007977188564836979	Co-localization	Johnson-Shoemaker-2003
+OAS2	IFIT3	0.007814704440534115	Co-localization	Johnson-Shoemaker-2003
+CCL2	SCGB1A1	0.007795573677867651	Co-localization	Johnson-Shoemaker-2003
+PTGS2	TNFSF10	0.007545195985585451	Co-localization	Johnson-Shoemaker-2003
+CCL4	CCL5	0.007527041248977184	Co-localization	Johnson-Shoemaker-2003
+IFI44	GBP1	0.007341580931097269	Co-localization	Johnson-Shoemaker-2003
+IFI44L	GBP1	0.00715634785592556	Co-localization	Johnson-Shoemaker-2003
+CD44	COL3A1	0.006881248205900192	Co-localization	Schadt-Shoemaker-2004
+S100A12	PTX3	0.006871418096125126	Co-localization	Johnson-Shoemaker-2003
+IFNG	STAT1	0.0067908489145338535	Co-localization	Johnson-Shoemaker-2003
+CCL5	CCL13	0.006786223500967026	Co-localization	Johnson-Shoemaker-2003
+IDO1	COL3A1	0.006778336595743895	Co-localization	Schadt-Shoemaker-2004
+IFI44	GBP5	0.006726081483066082	Co-localization	Johnson-Shoemaker-2003
+SLAMF7	GBP5	0.006693118251860142	Co-localization	Johnson-Shoemaker-2003
+GBP1	PTGS2	0.006640780251473188	Co-localization	Johnson-Shoemaker-2003
+CCL5	SLAMF7	0.0064673409797251225	Co-localization	Johnson-Shoemaker-2003
+STAT1	GBP5	0.006346715614199638	Co-localization	Johnson-Shoemaker-2003
+IFNG	SCGB1A1	0.006342625245451927	Co-localization	Johnson-Shoemaker-2003
+CCL5	PTX3	0.0062409210950136185	Co-localization	Johnson-Shoemaker-2003
+IFI44	CCL5	0.006177664268761873	Co-localization	Johnson-Shoemaker-2003
+IFNG	CCL7	0.005989133846014738	Co-localization	Johnson-Shoemaker-2003
+CCL5	CCL7	0.0058622281067073345	Co-localization	Johnson-Shoemaker-2003
+STAT1	CCL5	0.005635546986013651	Co-localization	Johnson-Shoemaker-2003
+CXCL9	GBP5	0.005466169212013483	Co-localization	Johnson-Shoemaker-2003
+TNFSF10	SCGB1A1	0.005354295484721661	Co-localization	Johnson-Shoemaker-2003
+ADM	IDO1	0.00499481987208128	Co-localization	Johnson-Shoemaker-2003
+IFNG	GBP5	0.004976182244718075	Co-localization	Johnson-Shoemaker-2003
+IFNG	TNFSF10	0.004721343517303467	Co-localization	Johnson-Shoemaker-2003
+CXCL9	CCL5	0.004672572016716003	Co-localization	Johnson-Shoemaker-2003
+CCL5	GBP5	0.004657546058297157	Co-localization	Johnson-Shoemaker-2003
+IFNG	CCL5	0.004655122756958008	Co-localization	Johnson-Shoemaker-2003
+STAT1	GBP1	0.004594716709107161	Co-localization	Johnson-Shoemaker-2003
+CCL7	GBP5	0.004578957334160805	Co-localization	Johnson-Shoemaker-2003
+S100A12	CCL7	0.004530446138232946	Co-localization	Johnson-Shoemaker-2003
+GBP1	TNFSF10	0.004009136464446783	Co-localization	Johnson-Shoemaker-2003
+IFNG	GBP1	0.003981098532676697	Co-localization	Johnson-Shoemaker-2003
+CCL5	CCL2	1.0	Genetic&nbsp;interactions	BIOGRID-SMALL-SCALE-STUDIES
+IL6	IRAK2	0.009560132399201393	Genetic&nbsp;interactions	Lin-Smith-2010
+TAP1	IRAK2	0.007902830839157104	Genetic&nbsp;interactions	Lin-Smith-2010
+CD80	CXCL11	0.005543949548155069	Genetic&nbsp;interactions	Lin-Smith-2010
+EDN1	GBP4	0.005252071190625429	Genetic&nbsp;interactions	Lin-Smith-2010
+IL6	CD80	0.004657002631574869	Genetic&nbsp;interactions	Lin-Smith-2010
+IDO1	TNFSF8	0.0046564266085624695	Genetic&nbsp;interactions	Lin-Smith-2010
+TAP1	BPIFB1	0.0039099170826375484	Genetic&nbsp;interactions	Lin-Smith-2010
+CD44	CXCL11	0.0036320991348475218	Genetic&nbsp;interactions	Lin-Smith-2010
+SERPINB3	BPIFB1	0.003206528490409255	Genetic&nbsp;interactions	Lin-Smith-2010
+ISG15	IFI44L	0.0031820829026401043	Genetic&nbsp;interactions	Lin-Smith-2010
+IFIT2	SCGB1A1	0.003176785074174404	Genetic&nbsp;interactions	Lin-Smith-2010
+HCAR3	VEGFA	0.003076133318245411	Genetic&nbsp;interactions	Lin-Smith-2010
+IL6	CD44	0.0030510190408676863	Genetic&nbsp;interactions	Lin-Smith-2010
+CCL7	SCGB1A1	0.0028544270899146795	Genetic&nbsp;interactions	Lin-Smith-2010
+PTGS2	IRAK2	0.002805110067129135	Genetic&nbsp;interactions	Lin-Smith-2010
+CXCL2	STAT1	0.002695071045309305	Genetic&nbsp;interactions	Lin-Smith-2010
+IFI44	SERPINB9	0.00243049836717546	Genetic&nbsp;interactions	Lin-Smith-2010
+ISG15	TNFSF8	0.002401198260486126	Genetic&nbsp;interactions	Lin-Smith-2010
+OASL	COL3A1	0.002359219593927264	Genetic&nbsp;interactions	Lin-Smith-2010
+COL3A1	SCGB1A1	0.002241531852632761	Genetic&nbsp;interactions	Lin-Smith-2010
+SLAMF7	SCGB1A1	0.00213508028537035	Genetic&nbsp;interactions	Lin-Smith-2010
+ISG15	TNFSF10	0.002045412315055728	Genetic&nbsp;interactions	Lin-Smith-2010
+IFI44	CXCL2	0.001971048768609762	Genetic&nbsp;interactions	Lin-Smith-2010
+IFNG	ISG20	0.0019526821561157703	Genetic&nbsp;interactions	Lin-Smith-2010
+TNFSF10	PIGR	0.0019203461706638336	Genetic&nbsp;interactions	Lin-Smith-2010
+IL8	CD80	0.0018055939581245184	Genetic&nbsp;interactions	Lin-Smith-2010
+SCGB1A1	BPIFB1	0.0017846470000222325	Genetic&nbsp;interactions	Lin-Smith-2010
+IFNG	SERPINB9	0.0017650736263021827	Genetic&nbsp;interactions	Lin-Smith-2010
+TNF	RASGRP1	0.001735543948598206	Genetic&nbsp;interactions	Lin-Smith-2010
+IL8	CCL13	0.0017000813968479633	Genetic&nbsp;interactions	Lin-Smith-2010
+CXCL2	MYO10	0.0015390426851809025	Genetic&nbsp;interactions	Lin-Smith-2010
+COL3A1	MYO10	0.0015365277649834752	Genetic&nbsp;interactions	Lin-Smith-2010
+IFI44	TNFSF10	0.0014274134300649166	Genetic&nbsp;interactions	Lin-Smith-2010
+RIPK2	MYO10	0.0013660428812727332	Genetic&nbsp;interactions	Lin-Smith-2010
+OASL	CXCL9	0.0013150341110303998	Genetic&nbsp;interactions	Lin-Smith-2010
+ISG15	RASGRP1	0.0011415763292461634	Genetic&nbsp;interactions	Lin-Smith-2010
+IFNG	CD80	0.0011202621972188354	Genetic&nbsp;interactions	Lin-Smith-2010
+TNFSF10	MYO10	0.001114558894187212	Genetic&nbsp;interactions	Lin-Smith-2010
+VEGFA	SOD2	0.0010860833572223783	Genetic&nbsp;interactions	Lin-Smith-2010
+IL1RN	MYO10	0.0010129690635949373	Genetic&nbsp;interactions	Lin-Smith-2010
+PTGS2	SCGB1A1	9.813264477998018E-4	Genetic&nbsp;interactions	Lin-Smith-2010
+IFNG	IFIT3	8.858332294039428E-4	Genetic&nbsp;interactions	Lin-Smith-2010
+ISG15	VEGFA	8.089894545264542E-4	Genetic&nbsp;interactions	Lin-Smith-2010
+STAT1	VEGFA	7.719418499618769E-4	Genetic&nbsp;interactions	Lin-Smith-2010
+IFNG	PTGS2	6.256381166167557E-4	Genetic&nbsp;interactions	Lin-Smith-2010
+IFNG	MYO10	5.514883087016642E-4	Genetic&nbsp;interactions	Lin-Smith-2010
+IL1RN	IRAK2	0.12431574612855911	Pathway	Wu-Stein-2010
+IL1B	IRAK2	0.06876185536384583	Pathway	Wu-Stein-2010
+IL1B	IL1RN	0.06596986949443817	Pathway	Wu-Stein-2010
+STAT1	CCL2	0.03416823595762253	Pathway	Wu-Stein-2010
+CD44	COL3A1	0.024977609515190125	Pathway	Wu-Stein-2010
+STAT1	IL6	0.00980320479720831	Pathway	Wu-Stein-2010
+IFNG	STAT1	0.006888446863740683	Pathway	Wu-Stein-2010
+STAT1	TNF	0.004468178376555443	Pathway	Wu-Stein-2010
+IFNG	IDO1	0.5221700221300125	Physical&nbsp;interactions	IREF-INNATEDB; IREF-SMALL-SCALE-STUDIES
+CCL2	CCL13	0.3630535826086998	Physical&nbsp;interactions	IREF-INNATEDB; IREF-SMALL-SCALE-STUDIES
+ADM	EDN1	0.2066129744052887	Physical&nbsp;interactions	IREF-SMALL-SCALE-STUDIES
+CCL2	CCL8	0.2025046870112419	Physical&nbsp;interactions	IREF-INNATEDB; IREF-SMALL-SCALE-STUDIES
+CCL5	PIGR	0.13513974845409393	Physical&nbsp;interactions	IREF-SMALL-SCALE-STUDIES
+CCL3	CCL4	0.0930691584944725	Physical&nbsp;interactions	IREF-SMALL-SCALE-STUDIES
+CCL4	IL8	0.048837531358003616	Physical&nbsp;interactions	IREF-SMALL-SCALE-STUDIES
+IFNG	TNF	0.04240020737051964	Physical&nbsp;interactions	IREF-SMALL-SCALE-STUDIES
+RIPK2	SOD2	0.04202186316251755	Physical&nbsp;interactions	Ewing-Figeys-2007
+CCL5	IL8	0.029659496620297432	Physical&nbsp;interactions	IREF-SMALL-SCALE-STUDIES
+TNF	COL3A1	0.17677967250347137	Predicted	I2D-IntAct-Rat2Human
+IDO2	IDO1	2.0	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+GBP5	GBP4	0.18530725687742233	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+GBP1	GBP4	0.18530725687742233	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+GBP1	GBP5	0.18530725687742233	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+APOBEC3A	APOBEC3B	0.18516822159290314	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL1B	IL1RN	0.15668188408017159	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+BPIFA1	BPIFB1	0.14253520220518112	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+OASL	OAS2	0.11368594691157341	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+TNFSF10	TNFSF8	0.09065774455666542	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+TNF	TNFSF8	0.08921993523836136	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+TNF	TNFSF10	0.08827653154730797	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL10	CXCL11	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL1	CXCL11	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL1	CXCL10	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CXCL11	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CXCL10	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CXCL1	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CXCL11	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CXCL10	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CXCL1	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	IL8	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CXCL11	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CXCL10	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CXCL1	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	IL8	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CXCL9	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CXCL11	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CXCL10	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CXCL1	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	IL8	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CXCL9	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CXCL3	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CXCL11	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CXCL10	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CXCL1	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	IL8	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CXCL9	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CXCL3	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CXCL2	0.05678102932870388	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+SERPINB3	SERPINB9	0.05559456907212734	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL13	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL8	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL8	CCL13	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL7	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL7	CCL13	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL7	CCL8	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL20	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL20	CCL13	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL20	CCL8	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL20	CCL7	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CCL13	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CCL8	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CCL7	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CCL20	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CCL13	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CCL8	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CCL7	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CCL20	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CCL2	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CCL13	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CCL8	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CCL7	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CCL20	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CCL2	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CCL5	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL3L3	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL13	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL8	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL7	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL20	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL2	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL5	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CCL4	0.043602827936410904	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL11	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL11	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL8	CXCL11	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL7	CXCL11	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL10	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL10	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL10	CCL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL10	CCL7	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL20	CXCL11	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL20	CXCL10	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL1	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL1	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL1	CCL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL1	CCL7	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL1	CCL20	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CXCL11	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CXCL10	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL2	CXCL1	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CCL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CCL7	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CCL20	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IL8	CCL2	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CXCL11	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CXCL10	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	CXCL1	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL5	IL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CCL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CCL7	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CCL20	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CCL2	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL9	CCL5	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CCL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CCL7	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CCL20	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CCL2	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL3	CCL5	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CXCL11	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CXCL10	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CXCL1	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	IL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CXCL9	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL4	CXCL3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL7	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL20	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL2	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL5	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL2	CCL4	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CXCL11	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CXCL10	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CXCL1	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	IL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CXCL9	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CXCL3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CCL3	CXCL2	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL3L3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL13	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL8	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL7	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL20	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL2	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL5	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL4	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+CXCL5	CCL3	0.0391058549284935	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+OASL	ISG15	0.030800342559814453	Shared&nbsp;protein&nbsp;domains	INTERPRO; PFAM
+IFNG	IL6	0.019213125109672546	Shared&nbsp;protein&nbsp;domains	INTERPRO
+IFIT2	IFIT3	0.01487743016332388	Shared&nbsp;protein&nbsp;domains	INTERPRO
+PIGR	SLAMF7	0.013800864107906818	Shared&nbsp;protein&nbsp;domains	PFAM
+RIPK2	IRAK2	0.00915409903973341	Shared&nbsp;protein&nbsp;domains	INTERPRO
+IFI44	IFI44L	0.004514517728239298	Shared&nbsp;protein&nbsp;domains	INTERPRO
+IFI44L	GBP4	0.0032195397652685642	Shared&nbsp;protein&nbsp;domains	INTERPRO
+IFI44L	GBP5	0.0032195397652685642	Shared&nbsp;protein&nbsp;domains	INTERPRO
+IFI44L	GBP1	0.0032195397652685642	Shared&nbsp;protein&nbsp;domains	INTERPRO
+MX1	IFI44L	0.0023650173097848892	Shared&nbsp;protein&nbsp;domains	INTERPRO
