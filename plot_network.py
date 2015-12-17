@@ -76,7 +76,8 @@ def plot_network(Gtest, border_cols, md_network,
         ax = plt.subplot(gs[0])
     else:
         fig,ax=plt.subplots(figsize=(20, 15))
-    pos_2pi = nx.graphviz_layout(Gtemp, prog='twopi', root=focal_node_name, args='')
+    pos_2pi = nx.pygraphviz_layout(Gtest,prog='twopi', root=focal_node_name)
+    #pos_2pi = nx.graphviz_layout(Gtemp, prog='twopi', root=focal_node_name, args='')
 
     if network_algo == 'spl':
 
